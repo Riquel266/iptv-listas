@@ -1,116 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Animação Infantil" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Filmes",24H Filmes Animação Infantil
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460888.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Ação" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Filmes",24H Filmes Ação
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460887.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Comédia" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Filmes",24H Filmes Comédia
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460889.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Drama" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Filmes",24H Filmes Drama
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460890.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Lancamentos" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Filmes",24H Filmes Lancamentos
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460893.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Romance" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Filmes",24H Filmes Romance
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460891.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Suspense" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Filmes",24H Filmes Suspense
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460892.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H • 18 OUTRA VEZ" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅24 Horas✨Doramas",24H • 18 OUTRA VEZ
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254928.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9-1-1: 01" tvg-logo="https://www.themoviedb.org/t/p/w342/gNXVGzPeo6ARExTuVcgNDBxGBvx.jpg" group-title="✅ 24 Horas ✨ Seriados",9-1-1: 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460649.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9-1-1: 02" tvg-logo="https://www.themoviedb.org/t/p/w342/i8oD2KoqFfw08UwCDWHHtjyu84w.jpg" group-title="✅ 24 Horas ✨ Seriados",9-1-1: 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460650.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9-1-1: 03" tvg-logo="https://www.themoviedb.org/t/p/w342/18icrGqD57R5i9XscEFB2iA4qt2.jpg" group-title="✅ 24 Horas ✨ Seriados",9-1-1: 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460651.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9-1-1: 04" tvg-logo="https://www.themoviedb.org/t/p/w342/bXtbOlAZYdiOGiBOtQoZMM82NY9.jpg" group-title="✅ 24 Horas ✨ Seriados",9-1-1: 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460652.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9-1-1: 05" tvg-logo="https://www.themoviedb.org/t/p/w342/3srnnHY50xmss50SS7B2XJ1j31i.jpg" group-title="✅ 24 Horas ✨ Seriados",9-1-1: 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460653.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A ESCOLINHA DO PROFESSOR RAIMUNDO" tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/16/09/09/19/40/535634.jpg" group-title="✅ 24 Horas ✨ Seriados",A ESCOLINHA DO PROFESSOR RAIMUNDO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460657.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A ESCRAVA ISAURA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",A ESCRAVA ISAURA 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A ESCRAVA ISAURA 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",A ESCRAVA ISAURA 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460574.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAVORITA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",A FAVORITA 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460575.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAVORITA 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",A FAVORITA 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460576.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FORCA DO QUERER 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",A FORCA DO QUERER 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460577.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FORCA DO QUERER 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",A FORCA DO QUERER 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460578.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA 01" tvg-logo="https://www.themoviedb.org/t/p/w342/wE9TNCTXwtP2adPfwHtg5lq7xUT.jpg" group-title="✅ 24 Horas ✨ Seriados",A GRANDE FAMILIA 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460658.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA 02" tvg-logo="https://www.themoviedb.org/t/p/w342/wE9TNCTXwtP2adPfwHtg5lq7xUT.jpg" group-title="✅ 24 Horas ✨ Seriados",A GRANDE FAMILIA 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460659.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA 03" tvg-logo="https://www.themoviedb.org/t/p/w342/wE9TNCTXwtP2adPfwHtg5lq7xUT.jpg" group-title="✅ 24 Horas ✨ Seriados",A GRANDE FAMILIA 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460660.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA 04" tvg-logo="https://www.themoviedb.org/t/p/w342/wE9TNCTXwtP2adPfwHtg5lq7xUT.jpg" group-title="✅ 24 Horas ✨ Seriados",A GRANDE FAMILIA 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460661.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA 05" tvg-logo="https://www.themoviedb.org/t/p/w342/wE9TNCTXwtP2adPfwHtg5lq7xUT.jpg" group-title="✅ 24 Horas ✨ Seriados",A GRANDE FAMILIA 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460662.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A TERRA PROMETIDA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",A TERRA PROMETIDA 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460579.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A USURPADORA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",A USURPADORA 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460581.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A USURPADORA 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",A USURPADORA 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460582.m3u8
 #EXTINF:-1 tvg-id="A&E SD" tvg-name="A&E FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/ae.png" group-title="✅ Canais ✨ Variedades",A&E FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -123,70 +11,10 @@ http://64.31.23.207:80/08892467/61552913/518548.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/518549.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALICE IN BORDERLAND 01" tvg-logo="https://i.ibb.co/4gFQM7nW/Alice-in-Board-01.png" group-title="✅ 24 Horas ✨ Seriados",ALICE IN BORDERLAND 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460667.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALICE IN BORDERLAND 02" tvg-logo="https://i.ibb.co/7xMXx549/Alice-in-Board-02.png" group-title="✅ 24 Horas ✨ Seriados",ALICE IN BORDERLAND 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460668.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALICE IN BORDERLAND 03" tvg-logo="https://i.ibb.co/qMLxtJCH/Alice-in-Board-03.png" group-title="✅ 24 Horas ✨ Seriados",ALICE IN BORDERLAND 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460669.m3u8
-#EXTINF:-1 tvg-id="AMC SD" tvg-name="AMC FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/amc.png" group-title="✅ Canais ✨ Filmes e Séries",AMC FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324427.m3u8
-#EXTINF:-1 tvg-id="AMC SD" tvg-name="AMC HD" tvg-logo="http://logos.appscms.xyz/logos/2025/amc.png" group-title="✅ Canais ✨ Filmes e Séries",AMC HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324429.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC Séries FHD" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg6O1gSOJVszECIEpEBJFhfYQBt6yUZvqBbg&s" group-title="✅ Canais ✨ Filmes e Séries",AMC Série FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324531.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC Séries HD" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg6O1gSOJVszECIEpEBJFhfYQBt6yUZvqBbg&s" group-title="✅ Canais ✨ Filmes e Séries",AMC Séries alta definição
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324530.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMOR DE MAE 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",AMOR DE MAE 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460583.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMOR DE MAE 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",AMOR DE MAE 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460584.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="AVENIDA BRASIL 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",AVENIDA BRASIL 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460585.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AVENIDA BRASIL 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",AVENIDA BRASIL 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460586.m3u8
 #EXTINF:-1 tvg-id="AXN SD" tvg-name="AXN 4K" tvg-logo="http://logos.appscms.xyz/logos/2025/axn.png" group-title="✅ Canais ✨ 4K",AXN 4K
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/324375.m3u8
-#EXTINF:-1 tvg-id="AXN SD" tvg-name="AXN FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/axn.png" group-title="✅ Canais ✨ Filmes e Séries",AXN FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324433.m3u8
-#EXTINF:-1 tvg-id="AXN SD" tvg-name="AXN HD" tvg-logo="http://logos.appscms.xyz/logos/2025/axn.png" group-title="✅ Canais ✨ Filmes e Séries",AXN HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324435.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adult IPTV Brunette" tvg-logo="" group-title="✅ Canais ♨️ XXX Adultos",Adult IPTV Brunette
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/1407542.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adult IPTV Sexy Blondes" tvg-logo="" group-title="✅ Canais ♨️ XXX Adultos",Adult IPTV Sexy Blondes
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/1407543.m3u8
 #EXTINF:-1 tvg-id="322" tvg-name="Adult Swim FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/adultswim.png" group-title="✅ Canais ✨ Variedades",Adult Swim FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -199,42 +27,10 @@ http://64.31.23.207:80/08892467/61552913/518593.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/518594.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online Interracial" tvg-logo="" group-title="✅ Canais ♨️ XXX Adultos",Adult TV Online Interracial
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/1407540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online Milfs" tvg-logo="" group-title="✅ Canais ♨️ XXX Adultos",Adult TV Online Milfs
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/1407536.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online POV" tvg-logo="" group-title="✅ Canais ♨️ XXX Adultos",Adult TV Online POV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/1407534.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online Pornstar" tvg-logo="" group-title="✅ Canais ♨️ XXX Adultos",Adult TV Online Pornstar
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/1407535.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adult TV online Latina" tvg-logo="" group-title="✅ Canais ♨️ XXX Adultos",Adult TV online Latina
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/1407539.m3u8
 #EXTINF:-1 tvg-id="80" tvg-name="Agro+" tvg-logo="http://www.fontedecanais.gs/logos/canais/agromais.png" group-title="✅ Canais ✨ Abertos",Agro+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3459588.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 01" tvg-logo="http://www.fontedecanais.gs/logos/canais/primevideo.png" group-title="✅ Canais ✨ Prime PPV",Amazon Prime Video 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460179.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 02" tvg-logo="http://www.fontedecanais.gs/logos/canais/primevideo.png" group-title="✅ Canais ✨ Prime PPV",Amazon Prime Video 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460180.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 03" tvg-logo="http://www.fontedecanais.gs/logos/canais/primevideo.png" group-title="✅ Canais ✨ Prime PPV",Amazon Prime Video 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460181.m3u8
 #EXTINF:-1 tvg-id="Animal Planet SD" tvg-name="Animal Planet 4K" tvg-logo="http://logos.appscms.xyz/logos/2025/animalplanet.png" group-title="✅ Canais ✨ 4K",Animal Planet 4K
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -251,14 +47,6 @@ http://64.31.23.207:80/08892467/61552913/296620.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/296621.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apple TV 01" tvg-logo="https://logos.appscms.xyz/logos/2025/appletv.png" group-title="✅ Canais ✨ PPV",Apple TV 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460267.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apple TV 02" tvg-logo="https://logos.appscms.xyz/logos/2025/appletv.png" group-title="✅ Canais ✨ PPV",Apple TV 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460268.m3u8
 #EXTINF:-1 tvg-id="Band SP SD" tvg-name="BAND FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="✅ Canais ✨ Band",BAND FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -283,10 +71,6 @@ http://64.31.23.207:80/08892467/61552913/518552.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3459775.m3u8
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="BR: My Time Movie HD" tvg-logo="http://97j91.xyz/images/logos/mytime-movie-network-l.png" group-title="✅ Canais ✨ Filmes e Séries",BR: My Time Movie HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324528.m3u8
 #EXTINF:-1 tvg-id="Band SP SD" tvg-name="Band 4K" tvg-logo="http://logos.appscms.xyz/logos/2025/band.png" group-title="✅ Canais ✨ 4K",Band 4K
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -387,98 +171,6 @@ http://64.31.23.207:80/08892467/61552913/324370.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/1882644.m3u8
-#EXTINF:-1 tvg-id="Canal do Boi SD" tvg-name="CANAL GOAT (JOGO 1)" tvg-logo="http://logos.appscms.xyz/logos/2025/canalgoat.png" group-title="✅ Canais ✨ PPV",CANAL GOAT (JOGO 1)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460243.m3u8
-#EXTINF:-1 tvg-id="Canal do Boi SD" tvg-name="CANAL GOAT (JOGO 2)" tvg-logo="http://logos.appscms.xyz/logos/2025/canalgoat.png" group-title="✅ Canais ✨ PPV",CANAL GOAT (JOGO 2)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460244.m3u8
-#EXTINF:-1 tvg-id="Canal do Boi SD" tvg-name="CANAL GOAT (JOGO 3)" tvg-logo="http://logos.appscms.xyz/logos/2025/canalgoat.png" group-title="✅ Canais ✨ PPV",CANAL GOAT (JOGO 3)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460245.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAZE TV (JOGO 2 )" tvg-logo="http://logos.appscms.xyz/logos/2025/cazetv.png" group-title="✅ Canais ✨ PPV",CAZE TV (JOGO 2 )
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460247.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAZE TV (JOGO 3 )" tvg-logo="http://logos.appscms.xyz/logos/2025/cazetv.png" group-title="✅ Canais ✨ PPV",CAZE TV (JOGO 3 )
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460248.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAZE TV (JOGO 4 )" tvg-logo="http://logos.appscms.xyz/logos/2025/cazetv.png" group-title="✅ Canais ✨ PPV",CAZE TV (JOGO 4 )
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460249.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN 01" tvg-logo="https://www.themoviedb.org/t/p/w342/qbpGd5ktoQ2D5VmDG8Y623VfEC4.jpg" group-title="✅ 24 Horas ✨ Seriados",CHAPOLIN 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460670.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN 02" tvg-logo="https://www.themoviedb.org/t/p/w342/qbpGd5ktoQ2D5VmDG8Y623VfEC4.jpg" group-title="✅ 24 Horas ✨ Seriados",CHAPOLIN 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460671.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN 03" tvg-logo="https://www.themoviedb.org/t/p/w342/qbpGd5ktoQ2D5VmDG8Y623VfEC4.jpg" group-title="✅ 24 Horas ✨ Seriados",CHAPOLIN 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460672.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN 04" tvg-logo="https://www.themoviedb.org/t/p/w342/qbpGd5ktoQ2D5VmDG8Y623VfEC4.jpg" group-title="✅ 24 Horas ✨ Seriados",CHAPOLIN 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460673.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN 05" tvg-logo="https://www.themoviedb.org/t/p/w342/qbpGd5ktoQ2D5VmDG8Y623VfEC4.jpg" group-title="✅ 24 Horas ✨ Seriados",CHAPOLIN 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460674.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES 00" tvg-logo="https://www.themoviedb.org/t/p/w342/3nwMEGhF9riFRJtqUsxCxeZL6Q5.jpg" group-title="✅ 24 Horas ✨ Seriados",CHAVES 00
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460677.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES 01" tvg-logo="https://www.themoviedb.org/t/p/w342/3nwMEGhF9riFRJtqUsxCxeZL6Q5.jpg" group-title="✅ 24 Horas ✨ Seriados",CHAVES 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460678.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES 02" tvg-logo="https://www.themoviedb.org/t/p/w342/3nwMEGhF9riFRJtqUsxCxeZL6Q5.jpg" group-title="✅ 24 Horas ✨ Seriados",CHAVES 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460679.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES 03" tvg-logo="https://www.themoviedb.org/t/p/w342/3nwMEGhF9riFRJtqUsxCxeZL6Q5.jpg" group-title="✅ 24 Horas ✨ Seriados",CHAVES 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460680.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES 04" tvg-logo="https://www.themoviedb.org/t/p/w342/3nwMEGhF9riFRJtqUsxCxeZL6Q5.jpg" group-title="✅ 24 Horas ✨ Seriados",CHAVES 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460681.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES 05" tvg-logo="https://www.themoviedb.org/t/p/w342/3nwMEGhF9riFRJtqUsxCxeZL6Q5.jpg" group-title="✅ 24 Horas ✨ Seriados",CHAVES 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460682.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHEIAS DE CHARME 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",CHEIAS DE CHARME 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460587.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHEIAS DE CHARME 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",CHEIAS DE CHARME 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460588.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHIQUITITAS 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",CHIQUITITAS 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460589.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHIQUITITAS 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",CHIQUITITAS 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460590.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHOCOLATE COM PIMENTA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",CHOCOLATE COM PIMENTA 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHOCOLATE COM PIMENTA 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",CHOCOLATE COM PIMENTA 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460592.m3u8
 #EXTINF:-1 tvg-id="CNN Brasil SD" tvg-name="CNN Brasil 4K" tvg-logo="http://logos.appscms.xyz/logos/2025/cnnbrasil.png" group-title="✅ Canais ✨ 4K",CNN Brasil 4K
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -499,14 +191,6 @@ http://64.31.23.207:80/08892467/61552913/3459556.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/297552.m3u8
-#EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="Canal Brasil FHD" tvg-logo="http://www.imgu.top/logos/CANAL%20BRASIL.jpg" group-title="✅ Canais ✨ Filmes e Séries",Canal Brasil FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324439.m3u8
-#EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="Canal Brasil HD" tvg-logo="http://www.imgu.top/logos/CANAL%20BRASIL.jpg" group-title="✅ Canais ✨ Filmes e Séries",Canal Brasil HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324441.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Goat 01" tvg-logo="http://www.fontedecanais.gs/logos/canais/canalgoat.png" group-title="✅ Canais ✨ Esportes",Canal Goat 01
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -563,10 +247,6 @@ http://64.31.23.207:80/08892467/61552913/1882632.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/1882633.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Caze TV (JOGO 1)" tvg-logo="http://logos.appscms.xyz/logos/2025/cazetv.png" group-title="✅ Canais ✨ PPV",Caze TV (JOGO 1)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460246.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CazeTV 01" tvg-logo="http://www.fontedecanais.gs/logos/canais/cazetv.png" group-title="✅ Canais ✨Esportes",CazeTV 01
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -579,38 +259,6 @@ http://64.31.23.207:80/08892467/61552913/3460169.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3460170.m3u8
-#EXTINF:-1 tvg-id="Cine Sky 1" tvg-name="Cine SKY 01" tvg-logo="http://www.fontedecanais.dev/logos/canais/cinesky.png" group-title="✅ Canais ✨ Cine Sky",Cine SKY 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/1832882.m3u8
-#EXTINF:-1 tvg-id="Cine Sky 1" tvg-name="Cine SKY 01" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="✅ Canais ✨ Cine Sky",Cine SKY 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/1882617.m3u8
-#EXTINF:-1 tvg-id="Cine Sky 2" tvg-name="Cine SKY 02" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="✅ Canais ✨ Cine Sky",Cine SKY 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/1882618.m3u8
-#EXTINF:-1 tvg-id="Cine Sky 3" tvg-name="Cine SKY 03" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="✅ Canais ✨ Cine Sky",Cine SKY 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/1882619.m3u8
-#EXTINF:-1 tvg-id="Cine Sky 4" tvg-name="Cine SKY 04" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="✅ Canais ✨ Cine Sky",Cine SKY 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/1882620.m3u8
-#EXTINF:-1 tvg-id="Cine Sky 5" tvg-name="Cine SKY 05" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="✅ Canais ✨ Cine Sky",Cine SKY 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/1882621.m3u8
-#EXTINF:-1 tvg-id="Cinemax SD" tvg-name="Cinemax FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/cinemax.png" group-title="✅ Canais ✨ Filmes e Séries",Cinemax FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324445.m3u8
-#EXTINF:-1 tvg-id="Cinemax SD" tvg-name="Cinemax HD" tvg-logo="http://logos.appscms.xyz/logos/2025/cinemax.png" group-title="✅ Canais ✨ Filmes e Séries",Cinemax HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324447.m3u8
 #EXTINF:-1 tvg-id="Combate SD" tvg-name="Combate FHD" tvg-logo="http://logos.imperioapps.top/COMBATE.png" group-title="✅ Canais ✨ UFC",Combate FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -643,74 +291,6 @@ http://64.31.23.207:80/08892467/61552913/3459570.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3459571.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Câmeras ao vivo de TV adulta" tvg-logo="" group-title="✅ Canais ♨️ XXX Adultos",Câmeras ao vivo de TV adulta
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/1407537.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DA COR DO PECADO 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",DA COR DO PECADO 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460593.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DA COR DO PECADO 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",DA COR DO PECADO 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460594.m3u8
-#EXTINF:-1 tvg-id="Dazn 1 HD" tvg-name="DAZN (JOGO 1)" tvg-logo="http://logos.appscms.xyz/logos/2025/dazn.png" group-title="✅ Canais ✨ PPV",DAZN (JOGO 1)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460239.m3u8
-#EXTINF:-1 tvg-id="Dazn 2 HD" tvg-name="DAZN (JOGO 2)" tvg-logo="http://logos.appscms.xyz/logos/2025/dazn.png" group-title="✅ Canais ✨ PPV",DAZN (JOGO 2)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460240.m3u8
-#EXTINF:-1 tvg-id="Dazn 3 HD" tvg-name="DAZN (JOGO 3)" tvg-logo="http://logos.appscms.xyz/logos/2025/dazn.png" group-title="✅ Canais ✨ PPV",DAZN (JOGO 3)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460241.m3u8
-#EXTINF:-1 tvg-id="Dazn 4 HD" tvg-name="DAZN (JOGO 4)" tvg-logo="http://logos.appscms.xyz/logos/2025/dazn.png" group-title="✅ Canais ✨ PPV",DAZN (JOGO 4)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460242.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEXTER 01" tvg-logo="https://i.ibb.co/v6qGS37C/dexter-01.png" group-title="✅ 24 Horas ✨ Seriados",DEXTER 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460686.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEXTER 02" tvg-logo="https://i.ibb.co/Vp2BpWFq/dexter-02.png" group-title="✅ 24 Horas ✨ Seriados",DEXTER 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460687.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEXTER 03" tvg-logo="https://i.ibb.co/WWs3f71m/dexter-03.png" group-title="✅ 24 Horas ✨ Seriados",DEXTER 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460688.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEXTER 04" tvg-logo="https://i.ibb.co/G4xYmNb3/dexter-04.png" group-title="✅ 24 Horas ✨ Seriados",DEXTER 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460689.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEXTER 05" tvg-logo="https://i.ibb.co/ccmGf04Q/dexter-05.png" group-title="✅ 24 Horas ✨ Seriados",DEXTER 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460690.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO 01" tvg-logo="https://image.tmdb.org/t/p/w342/9NmUF41Izd5E4k69g4klkoh4zTb.jpg" group-title="✅ 24 Horas ✨ Seriados",DOIS HOMENS E MEIO 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460628.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO 02" tvg-logo="https://www.themoviedb.org/t/p/w342/l03f6HTmnc82LlDCvR2q6pfWO87.jpg" group-title="✅ 24 Horas ✨ Seriados",DOIS HOMENS E MEIO 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460629.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO 03" tvg-logo="https://image.tmdb.org/t/p/w342/I5Hhdvc5UIEyhgpRoNPqj99H49.jpg" group-title="✅ 24 Horas ✨ Seriados",DOIS HOMENS E MEIO 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460630.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO 04" tvg-logo="https://image.tmdb.org/t/p/w342/kcYIXEat3fR5FoVt4dbzQSnUDa6.jpg" group-title="✅ 24 Horas ✨ Seriados",DOIS HOMENS E MEIO 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460631.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO 05" tvg-logo="https://image.tmdb.org/t/p/w342/g52E3BZ6jKydQVxoGM15ePOEFXg.jpg" group-title="✅ 24 Horas ✨ Seriados",DOIS HOMENS E MEIO 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460632.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel SD" tvg-name="Discovery Channel 4K" tvg-logo="http://logos.appscms.xyz/logos/2025/discoverychannel.png" group-title="✅ Canais ✨ 4K",Discovery Channel 4K
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -843,38 +423,6 @@ http://64.31.23.207:80/08892467/61552913/297958.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/297959.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 01" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/296915.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 02" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/296916.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 03" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/296917.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 04" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/296918.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 05" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/296919.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 06" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 06
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/296920.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 07" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 07
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/296921.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 08" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 08
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/296922.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DumDum FHD" tvg-logo="https://logos.imperioapps.top/DUMDUM.png" group-title="✅ Canais ✨ Infantis",DumDum FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -899,26 +447,6 @@ http://64.31.23.207:80/08892467/61552913/518561.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/518560.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELITE 01" tvg-logo="https://www.themoviedb.org/t/p/w342/sDb72CQX5Q8v0EPnjbVjEueiCo7.jpg" group-title="✅ 24 Horas ✨ Seriados",ELITE 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460697.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELITE 02" tvg-logo="https://www.themoviedb.org/t/p/w342/3001LU2mHSkg1u0KmBsJSO825S2.jpg" group-title="✅ 24 Horas ✨ Seriados",ELITE 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460698.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELITE 03" tvg-logo="https://www.themoviedb.org/t/p/w342/3NTAbAiao4JLzFQw6YxP1YZppM8.jpg" group-title="✅ 24 Horas ✨ Seriados",ELITE 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460699.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELITE 04" tvg-logo="https://www.themoviedb.org/t/p/w342/hMNi01KTkQ13kc6dNLX04Jvm4m7.jpg" group-title="✅ 24 Horas ✨ Seriados",ELITE 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELITE 05" tvg-logo="https://i.ibb.co/Rk9c7Hg6/elite-05.png" group-title="✅ 24 Horas ✨ Seriados",ELITE 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460701.m3u8
 #EXTINF:-1 tvg-id="Globo Eptv Campinas SD" tvg-name="EPTV CAMPINAS SD" tvg-logo="http://www.fontedecanais.gs/logos/canais/globo.png" group-title="✅ Canais ✨ Globo Sudeste",EPTV CAMPINAS SD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -1011,66 +539,10 @@ http://64.31.23.207:80/08892467/61552913/3460183.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3460184.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANCAS 01" tvg-logo="https://image.tmdb.org/t/p/w342/xRzah3gUFqjSymMS3atFVwRYgiw.jpg" group-title="✅ 24 Horas ✨ Seriados",EU A PATROA E AS CRIANCAS 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460640.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANCAS 02" tvg-logo="https://image.tmdb.org/t/p/w342/AJqoeqFW8Mos8TyVKthayZSric.jpg" group-title="✅ 24 Horas ✨ Seriados",EU A PATROA E AS CRIANCAS 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460641.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANCAS 03" tvg-logo="https://image.tmdb.org/t/p/w342/h8l6WEgLWEj3qBWoJyRl2B3LOCc.jpg" group-title="✅ 24 Horas ✨ Seriados",EU A PATROA E AS CRIANCAS 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460642.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANCAS 04" tvg-logo="https://image.tmdb.org/t/p/w342/v6AC0dDwfDYpoTD2XMlDyVB8AIm.jpg" group-title="✅ 24 Horas ✨ Seriados",EU A PATROA E AS CRIANCAS 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460643.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANCAS 05" tvg-logo="https://image.tmdb.org/t/p/w342/uO1ATnJuyEVL5wONjkMnuV0T9w9.jpg" group-title="✅ 24 Horas ✨ Seriados",EU A PATROA E AS CRIANCAS 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460644.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXPRESSO DO AMANHA 01" tvg-logo="https://www.themoviedb.org/t/p/w342/n6UNHZoiYj81abwmG38HbNjflDx.jpg" group-title="✅ 24 Horas ✨ Seriados",EXPRESSO DO AMANHA 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460705.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXPRESSO DO AMANHA 02" tvg-logo="https://www.themoviedb.org/t/p/w342/95xQPSqwvQDRoB3rXUn4lRyJrBW.jpg" group-title="✅ 24 Horas ✨ Seriados",EXPRESSO DO AMANHA 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460706.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXPRESSO DO AMANHA 03" tvg-logo="https://i.ibb.co/4wFf8QKs/expresso-do-amanha-03.png" group-title="✅ 24 Horas ✨ Seriados",EXPRESSO DO AMANHA 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460707.m3u8
-#EXTINF:-1 tvg-id="Espaço HD" tvg-name="Espaço FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/space.png" group-title="✅ Canais ✨ Filmes e Séries",Espaço FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324463.m3u8
-#EXTINF:-1 tvg-id="Espaço HD" tvg-name="Espaço HD" tvg-logo="http://logos.appscms.xyz/logos/2025/space.png" group-title="✅ Canais ✨ Filmes e Séries",Espaço HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324465.m3u8
 #EXTINF:-1 tvg-id="107" tvg-name="Estreia 1 SD" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png" group-title="✅ Canais ✨ Estreia",Estreia 1 SD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3460211.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FAMILIA DINOSSAURO 01" tvg-logo="https://www.themoviedb.org/t/p/w342/oxrUCAVADELRM0M3sg6tg2n5Dei.jpg" group-title="✅ 24 Horas ✨ Seriados",FAMILIA DINOSSAURO 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460708.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FAMILIA DINOSSAURO 02" tvg-logo="https://www.themoviedb.org/t/p/w342/oxrUCAVADELRM0M3sg6tg2n5Dei.jpg" group-title="✅ 24 Horas ✨ Seriados",FAMILIA DINOSSAURO 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460709.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FAMILIA DINOSSAURO 03" tvg-logo="https://www.themoviedb.org/t/p/w342/oxrUCAVADELRM0M3sg6tg2n5Dei.jpg" group-title="✅ 24 Horas ✨ Seriados",FAMILIA DINOSSAURO 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460710.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FAMILIA DINOSSAURO 04" tvg-logo="https://www.themoviedb.org/t/p/w342/oxrUCAVADELRM0M3sg6tg2n5Dei.jpg" group-title="✅ 24 Horas ✨ Seriados",FAMILIA DINOSSAURO 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460711.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FILHINHO DA MAMAE" tvg-logo="http://xvbroker.click:80/images/dsAt8cMDBjbP3mVNdeYR4Vln2ZyBZpf6UImqVMpJX6g5QngYjG1K5Rghi2qcfLTA.png" group-title="✅ Canais ✨Documentários",FILHINHO DA MAMAE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -1087,18 +559,10 @@ http://64.31.23.207:80/08892467/61552913/518563.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/518564.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Flamengo TV" tvg-logo="" group-title="✅ Canais ✨ PPV",Flamengo TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460264.m3u8
 #EXTINF:-1 tvg-id="Food Network SD" tvg-name="Food Network HD" tvg-logo="http://www.fontedecanais.me/logos/canais/foodnetwork.png" group-title="✅ Canais ✨ Variedades",Food Network HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/518566.m3u8
-#EXTINF:-1 tvg-id="Furacão Live FHD" tvg-name="Furacão TV" tvg-logo="http://67.220.74.155:80/images/J_hknk65UtZdScsqP0ulYcLtEndIbwTodght05BnF_KHdj0rUVcPGR6v0pWlMhD18ogxC2bwCIePLSEpMwKR0A.png" group-title="✅ Canais ✨ PPV",Furacão TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460250.m3u8
 #EXTINF:-1 tvg-id="Futura SD" tvg-name="Futura FHD" tvg-logo="http://www.fontedecanais.gs/logos/canais/futura.png" group-title="✅ Canais ✨ Abertos",Futura FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -1111,34 +575,6 @@ http://64.31.23.207:80/08892467/61552913/3459573.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3459574.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GAME OF THRONES 01" tvg-logo="https://www.themoviedb.org/t/p/w342/wgfKiqzuMrFIkU1M68DDDY8kGC1.jpg" group-title="✅ 24 Horas ✨ Seriados",GAME OF THRONES 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460712.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GAME OF THRONES 02" tvg-logo="https://www.themoviedb.org/t/p/w342/9xfNkPwDOqyeUvfNhs1XlWA0esP.jpg" group-title="✅ 24 Horas ✨ Seriados",GAME OF THRONES 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460713.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GAME OF THRONES 03" tvg-logo="https://www.themoviedb.org/t/p/w342/8Dqxwv68xjIFuQJkn7JZAHZKBNB.jpg" group-title="✅ 24 Horas ✨ Seriados",GAME OF THRONES 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460714.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GAME OF THRONES 04" tvg-logo="https://www.themoviedb.org/t/p/w342/jXIMScXE4J4EVHUba1JgxZnWbo4.jpg" group-title="✅ 24 Horas ✨ Seriados",GAME OF THRONES 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460715.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GAME OF THRONES 05" tvg-logo="https://www.themoviedb.org/t/p/w342/isuZ748TMvDEr5IFiPlngmD6zju.jpg" group-title="✅ 24 Horas ✨ Seriados",GAME OF THRONES 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460716.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GAME OF THRONES 07" tvg-logo="https://www.themoviedb.org/t/p/w342/oX51n32QyHeFP5kErksemJsJljL.jpg" group-title="✅ 24 Horas ✨ Seriados",GAME OF THRONES 07
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460718.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GAME OF THRONES 08" tvg-logo="https://www.themoviedb.org/t/p/w342/3OcQhbrecf4F4pYss2gSirTGPvD.jpg" group-title="✅ 24 Horas ✨ Seriados",GAME OF THRONES 08
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460719.m3u8
 #EXTINF:-1 tvg-id="466" tvg-name="GE TV FHD" tvg-logo="http://www.fontedecanais.gs/logos/canais/getv.png" group-title="✅ Canais ✨Esportes",GE TV FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -1151,14 +587,6 @@ http://64.31.23.207:80/08892467/61552913/3460156.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3460157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GENESIS 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",GENESIS 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460595.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GENESIS 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",GENESIS 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460596.m3u8
 #EXTINF:-1 tvg-id="GNT SD" tvg-name="GNT 4K" tvg-logo="http://wood1.de:80/images/5c1f9cce98205a530c8a2ee95220dd2f.png" group-title="✅ Canais ✨ 4K",GNT 4K
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -1175,10 +603,6 @@ http://64.31.23.207:80/08892467/61552913/518569.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/518570.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GREYS ANATOMY" tvg-logo="https://www.themoviedb.org/t/p/w342/b8pkzoNM5X0XSwppEA7jTID5Dcm.jpg" group-title="✅ 24 Horas ✨ Séries",GREYS ANATOMY
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Globo AGORA" tvg-logo="http://www.fontedecanais.gs/logos/canais/globo.png" group-title="✅ Canais ✨ Globo Nordeste",Globo AGORA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -2259,38 +1683,6 @@ http://64.31.23.207:80/08892467/61552913/514128.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/514129.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HOUSE 01" tvg-logo="https://www.themoviedb.org/t/p/w342/lXBIhFheyDRA72vRQvYF1mkEF27.jpg" group-title="✅ 24 Horas ✨ Seriados",HOUSE 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460721.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HOUSE 02" tvg-logo="https://www.themoviedb.org/t/p/w342/j2LxTsMhXYqfi4k9Vome8kQc26U.jpg" group-title="✅ 24 Horas ✨ Seriados",HOUSE 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460722.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HOUSE 03" tvg-logo="https://www.themoviedb.org/t/p/w342/muuLevUfVbpq87lWljfZ8HLga6b.jpg" group-title="✅ 24 Horas ✨ Seriados",HOUSE 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460723.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HOUSE 04" tvg-logo="https://www.themoviedb.org/t/p/w342/CryJFbwif5U1VViZ5EkmeomD3q.jpg" group-title="✅ 24 Horas ✨ Seriados",HOUSE 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460724.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HOUSE 05" tvg-logo="https://www.themoviedb.org/t/p/w342/bwE3QGVeC7E5VycnIPVzPtzpBId.jpg" group-title="✅ 24 Horas ✨ Seriados",HOUSE 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460725.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hardcore Erotic TV Online" tvg-logo="" group-title="✅ Canais ♨️ XXX Adultos",Hardcore Erotic TV Online
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/1407531.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hardcore Web Tv" tvg-logo="" group-title="✅ Canais ♨️ XXX Adultos",Hardcore Web Tv
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/1407532.m3u8
-#EXTINF:-1 tvg-id="Jaspion 24H" tvg-name="JASPION" tvg-logo="https://www.themoviedb.org/t/p/w342/5mdeUBc5hQX8NrTCerfAUim7XY0.jpg" group-title="✅ 24 Horas ✨ Seriados",JASPION
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460729.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JOGOS DO DIA" tvg-logo="http://logos.imperioapps.top/JOGOSDODIA.png" group-title="❇️AREA DO CLIENTE⚽",JOGOS DO DIA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -2311,78 +1703,10 @@ http://64.31.23.207:80/08892467/61552913/3459561.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3459562.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KUBANACAN 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",KUBANACAN 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460597.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KUBANACAN 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",KUBANACAN 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460598.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kids Mais HD" tvg-logo="https://i.imgur.com/86cfDFx.png" group-title="✅ Canais ✨ Infantis",Kids Mais HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/1882637.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA CASA DE PAPEL 01" tvg-logo="https://www.themoviedb.org/t/p/w342/gtZMIcN4pzvJl5t6VT1GnF2pqgf.jpg" group-title="✅ 24 Horas ✨ Seriados",LA CASA DE PAPEL 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460730.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA CASA DE PAPEL 02" tvg-logo="https://www.themoviedb.org/t/p/w342/rMmH3RQqetXwDiJnyLlbvcuqm0f.jpg" group-title="✅ 24 Horas ✨ Seriados",LA CASA DE PAPEL 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460731.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA CASA DE PAPEL 03" tvg-logo="https://www.themoviedb.org/t/p/w342/kJxqdEfInoai6Ca2tUEWbelveUP.jpg" group-title="✅ 24 Horas ✨ Seriados",LA CASA DE PAPEL 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460732.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA CASA DE PAPEL 04" tvg-logo="https://www.themoviedb.org/t/p/w342/ofBAZM79LltP7FIBRWJDMzyQGYG.jpg" group-title="✅ 24 Horas ✨ Seriados",LA CASA DE PAPEL 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460733.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA CASA DE PAPEL 05" tvg-logo="https://i.ibb.co/bjNQ7kCr/la-casa-de-papel-05.png" group-title="✅ 24 Horas ✨ Seriados",LA CASA DE PAPEL 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460734.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LACOS DE FAMILIA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",LACOS DE FAMILIA 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460599.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LACOS DE FAMILIA 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",LACOS DE FAMILIA 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL (JOGO 1)" tvg-logo="http://logos.appscms.xyz/logos/2025/ligafutsal.png" group-title="✅ Canais ✨ PPV",LIGA FUTSAL (JOGO 1)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460251.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL (JOGO 2)" tvg-logo="http://logos.appscms.xyz/logos/2025/ligafutsal.png" group-title="✅ Canais ✨ PPV",LIGA FUTSAL (JOGO 2)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460252.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL (JOGO 3)" tvg-logo="http://logos.appscms.xyz/logos/2025/ligafutsal.png" group-title="✅ Canais ✨ PPV",LIGA FUTSAL (JOGO 3)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460253.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LOST 01" tvg-logo="https://www.themoviedb.org/t/p/w342/ejLEJwmh3ptBpdYlKw0xgjjYXmP.jpg" group-title="✅ 24 Horas ✨ Seriados",LOST 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460736.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LOST 02" tvg-logo="https://www.themoviedb.org/t/p/w342/jvYAdIQ9f1HwlutyFW8ZXWbcmFe.jpg" group-title="✅ 24 Horas ✨ Seriados",LOST 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460737.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LOST 03" tvg-logo="https://www.themoviedb.org/t/p/w342/lNQPUCru6oHmgGNSVwpjaJp6u4V.jpg" group-title="✅ 24 Horas ✨ Seriados",LOST 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460738.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LOST 04" tvg-logo="https://www.themoviedb.org/t/p/w342/aOx6DBLyicMrEooriTDVfYi89MJ.jpg" group-title="✅ 24 Horas ✨ Seriados",LOST 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460739.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LOST 05" tvg-logo="https://www.themoviedb.org/t/p/w342/jOW77AyrfDoCBFFjBleVQjOhoTK.jpg" group-title="✅ 24 Horas ✨ Seriados",LOST 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460740.m3u8
 #EXTINF:-1 tvg-id="Lifetime SD" tvg-name="Lifetime FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/lifetime.png" group-title="✅ Canais ✨ Variedades",Lifetime FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -2391,22 +1715,10 @@ http://64.31.23.207:80/08892467/61552913/518571.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/518572.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Adult TV Hardcore" tvg-logo="" group-title="✅ Canais ♨️ XXX Adultos",Live Adult TV Hardcore
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/1407541.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="http://blueantmedia.com/wp-content/uploads/2020/01/love-nature_transparent.png" group-title="✅ Canais ✨Documentários",Love Nature
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/296622.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MARIA DO BAIRRO 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",MARIA DO BAIRRO 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460601.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MARIA DO BAIRRO 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",MARIA DO BAIRRO 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460602.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAX 01" tvg-logo="http://www.fontedecanais.gs/logos/canais/max.png" group-title="✅ Canais ✨Max",MAX 01
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -2431,30 +1743,6 @@ http://64.31.23.207:80/08892467/61552913/3460237.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3460238.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUNDO DE BEAKEMAN 01" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdiNTY2NzctZDRkNy00ZTgwLTlhODQtMjUyOTBmNWY1YTY4XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg" group-title="✅ 24 Horas ✨ Seriados",MUNDO DE BEAKEMAN 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460744.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUNDO DE BEAKEMAN 02" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdiNTY2NzctZDRkNy00ZTgwLTlhODQtMjUyOTBmNWY1YTY4XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg" group-title="✅ 24 Horas ✨ Seriados",MUNDO DE BEAKEMAN 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460745.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUNDO DE BEAKEMAN 03" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdiNTY2NzctZDRkNy00ZTgwLTlhODQtMjUyOTBmNWY1YTY4XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg" group-title="✅ 24 Horas ✨ Seriados",MUNDO DE BEAKEMAN 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460746.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUNDO DE BEAKEMAN 04" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdiNTY2NzctZDRkNy00ZTgwLTlhODQtMjUyOTBmNWY1YTY4XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg" group-title="✅ 24 Horas ✨ Seriados",MUNDO DE BEAKEMAN 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460747.m3u8
-#EXTINF:-1 tvg-id="Megapix SD" tvg-name="Megapix FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/megapix.png" group-title="✅ Canais ✨ Filmes e Séries",Megapix FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324451.m3u8
-#EXTINF:-1 tvg-id="Megapix SD" tvg-name="Megapix HD" tvg-logo="http://logos.appscms.xyz/logos/2025/megapix.png" group-title="✅ Canais ✨ Filmes e Séries",Megapix HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324453.m3u8
 #EXTINF:-1 tvg-id="100" tvg-name="Modo Viagem FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/modoviagem.png" group-title="✅ Canais ✨ Variedades",Modo Viagem FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -2467,14 +1755,6 @@ http://64.31.23.207:80/08892467/61552913/518575.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/518576.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mr Olympia 01" tvg-logo="" group-title="✅ Canais ✨ PPV",Mr Olympia 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460265.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mr Olympia 02" tvg-logo="" group-title="✅ Canais ✨ PPV",Mr Olympia 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460266.m3u8
 #EXTINF:-1 tvg-id="Multishow SD" tvg-name="Multishow FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/multishow.png" group-title ="✅ Canais ✨ Variedades",Multishow FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -2527,14 +1807,6 @@ http://64.31.23.207:80/08892467/61552913/514105.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/514106.m3u8
-#EXTINF:-1 tvg-id="299" tvg-name="NOVELAS TURCAS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",NOVELAS TURCAS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460603.m3u8
-#EXTINF:-1 tvg-id="296" tvg-name="NSPORT (JOGO 01)" tvg-logo="" group-title="✅ Canais ✨ PPV",NSPORT (JOGO 01)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460254.m3u8
 #EXTINF:-1 tvg-id="329" tvg-name="NSports FHD" tvg-logo="http://www.fontedecanais.gs/logos/canais/nsports.png" group-title="✅ Canais ✨ Esportes",NSports FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -2551,278 +1823,6 @@ http://64.31.23.207:80/08892467/61552913/3460167.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3459543.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O BEIJO DO VAMPIRO 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",O BEIJO DO VAMPIRO 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460604.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O BEIJO DO VAMPIRO 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",O BEIJO DO VAMPIRO 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460605.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O BEIJO DO VAMPIRO 03" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",O BEIJO DO VAMPIRO 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460606.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O CLONE 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",O CLONE 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460607.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O CLONE 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",O CLONE 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460608.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O REI DO GADO 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",O REI DO GADO 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460609.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O REI DO GADO 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",O REI DO GADO 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460610.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - ALICE LINS - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - ALICE LINS - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254898.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - ALINE FARIA - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - ALINE FARIA - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254878.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - ALINE FERRARI - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - ALINE FERRARI - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254880.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - AMANDA SOUSA - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - AMANDA SOUSA - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254882.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - ANGEL APOLLO - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - ANGEL APOLLO - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254881.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - BIA MARTINS - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - BIA MARTINS - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254885.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - CRIS VIP - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - CRIS VIP - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254888.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - Cintia Lara - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - Cintia Lara - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254903.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - ESTER MUNIZ - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - ESTER MUNIZ - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254879.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - Gabi Conkey - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - Gabi Conkey - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254904.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - KAREN KHALIFA - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - KAREN KHALIFA - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254897.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - LIANA E JEFAO - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - LIANA E JEFAO - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254927.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - Lady Milf - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - Lady Milf - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254907.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - Lidi Ferrari - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - Lidi Ferrari - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254905.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - MILA HOT - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - MILA HOT - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254895.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - MIMI BOLIVIANA - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - MIMI BOLIVIANA - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254894.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - MONIQUE BERTOLINE - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - MONIQUE BERTOLINE - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254892.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - Mandy Sweet- 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - Mandy Sweet- 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254899.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - NATASHA NATURISTA- 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - NATASHA NATURISTA- 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254890.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - PATY WIFE - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - PATY WIFE - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254876.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - POCA HONTAS CARIOCA - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - POCA HONTAS CARIOCA - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254889.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - RITA CADILAC - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - RITA CADILAC - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254886.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - SCARLLET - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - SCARLLET - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254893.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - Sarah Black- 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - Sarah Black- 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254906.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - TED - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - TED - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254877.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - TIGRESA - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - TIGRESA - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254887.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - YASMIN AVILLA - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - YASMIN AVILLA - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254884.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - YASMIN MINEIRA - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA - YASMIN MINEIRA - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254883.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA -ALINE NOVACK - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA -ALINE NOVACK - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254923.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA -ALINE NOVACK 02 - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA -ALINE NOVACK 02 - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA -ANDRESA URACH - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA -ANDRESA URACH - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254915.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA -BIA RUIVA - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA -BIA RUIVA - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254912.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA -BRIDA NUNES - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA -BRIDA NUNES - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254921.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA -DANIKA MORE - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA -DANIKA MORE - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254910.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA -ELISA SANCHES - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA -ELISA SANCHES - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254926.m3u8
-#EXTINF:-1 tvg-id="Show da Luna 24H" tvg-name="ONLY/PRIVA -GABI LUNA - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA -GABI LUNA - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254918.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA -JOANA ANGEL - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA -JOANA ANGEL - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254913.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA -KAREN OLIVER - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA -KAREN OLIVER - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254917.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA -KAROLINE KING - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA -KAROLINE KING - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254909.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA -LUISA AMBIEL - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA -LUISA AMBIEL - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254914.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA -MARCELLE PIMENTA - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA -MARCELLE PIMENTA - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254900.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA -MARCIA IMPERATOR - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA -MARCIA IMPERATOR - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254908.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA -MARY AVILA - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA -MARY AVILA - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254920.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA -MELLODY ANTUNES - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA -MELLODY ANTUNES - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254916.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA -Milla Ferrazo - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA -Milla Ferrazo - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254902.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA -NATHALIA FONTES - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA -NATHALIA FONTES - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254919.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA -PAMPAM PAMELA - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA -PAMPAM PAMELA - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254911.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA -RAISA CONTE - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA -RAISA CONTE - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254924.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA -REYLEI REID - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",ONLY/PRIVA -REYLEI REID - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254925.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ORIGEM 01" tvg-logo="https://www.themoviedb.org/t/p/w342/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg" group-title="✅ 24 Horas ✨ Seriados",ORIGEM 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460748.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ORIGEM 02" tvg-logo="https://i.ibb.co/KpPkf6Df/origem-02.png" group-title="✅ 24 Horas ✨ Seriados",ORIGEM 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460749.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ORIGEM 03" tvg-logo="https://i.ibb.co/sdscs2y4/origem-03.png" group-title="✅ 24 Horas ✨ Seriados",ORIGEM 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460750.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OS DEZ MANDAMENTOS 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",OS DEZ MANDAMENTOS 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460611.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OS DEZ MANDAMENTOS 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",OS DEZ MANDAMENTOS 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460612.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OS DEZ MANDAMENTOS 03" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",OS DEZ MANDAMENTOS 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460613.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OS DEZ MANDAMENTOS 04" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",OS DEZ MANDAMENTOS 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460614.m3u8
-#EXTINF:-1 tvg-id="Os Trapalhões 24H" tvg-name="OS TRAPALHOES" tvg-logo="https://image.tmdb.org/t/p/w500/ug34Rv1iINCnXbHFLLdg9yXSFsC.jpg" group-title="✅ 24 Horas ✨ Seriados",OS TRAPALHOES
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460751.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OS VAMPIROS: LEGADOS 01" tvg-logo="https://i.ibb.co/N6TH8HG3/legados-01.png" group-title="✅ 24 Horas ✨ Seriados",OS VAMPIROS: LEGADOS 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460843.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OS VAMPIROS: LEGADOS 02" tvg-logo="https://i.ibb.co/QvbM02HY/legados-02.png" group-title="✅ 24 Horas ✨ Seriados",OS VAMPIROS: LEGADOS 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460844.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OS VAMPIROS: LEGADOS 03" tvg-logo="https://i.ibb.co/MxQrc2bW/legados-03.png" group-title="✅ 24 Horas ✨ Seriados",OS VAMPIROS: LEGADOS 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460845.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OS VAMPIROS: LEGADOS 04" tvg-logo="https://i.ibb.co/d0QZ7gqW/legados-04.png" group-title="✅ 24 Horas ✨ Seriados",OS VAMPIROS: LEGADOS 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460846.m3u8
 #EXTINF:-1 tvg-id="OFF SD" tvg-name="Off FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/off.png" group-title="✅ Canais ✨ Variedades",Off FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -2835,74 +1835,6 @@ http://64.31.23.207:80/08892467/61552913/518584.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/518585.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PANTANAL 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",PANTANAL 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460615.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PANTANAL 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",PANTANAL 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460616.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAULISTÃO PLAY (JOGO 2)" tvg-logo="" group-title="✅ Canais ✨ PPV",PAULISTÃO PLAY (JOGO 2)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460255.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAULISTÃO PLAY (JOGO 3)" tvg-logo="" group-title="✅ Canais ✨ PPV",PAULISTÃO PLAY (JOGO 3)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460256.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAULISTÃO PLAY (JOGO 4)" tvg-logo="" group-title="✅ Canais ✨ PPV",PAULISTÃO PLAY (JOGO 4)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460257.m3u8
-#EXTINF:-1 tvg-id="Playboy SD" tvg-name="PLAYBOY" tvg-logo="" group-title="✅ Canais ♨️ XXX Adultos",PLAYBOY
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/1407526.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PRISON BREAKE 01" tvg-logo="https://www.themoviedb.org/t/p/w342/jnMW2qcOjgwsjHx6QkOIeXShsLi.jpg" group-title="✅ 24 Horas ✨ Seriados",PRISON BREAKE 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460752.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PRISON BREAKE 02" tvg-logo="https://www.themoviedb.org/t/p/w342/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg" group-title="✅ 24 Horas ✨ Seriados",PRISON BREAKE 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460753.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PRISON BREAKE 03" tvg-logo="https://www.themoviedb.org/t/p/w342/vlEtqQFkz4oqXaKo5tQzR2gtmWw.jpg" group-title="✅ 24 Horas ✨ Seriados",PRISON BREAKE 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460754.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PRISON BREAKE 04" tvg-logo="https://www.themoviedb.org/t/p/w342/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg" group-title="✅ 24 Horas ✨ Seriados",PRISON BREAKE 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460755.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PRISON BREAKE 05" tvg-logo="https://www.themoviedb.org/t/p/w342/1YwzKyKGen3498Ui2AjD9FUTkG2.jpg" group-title="✅ 24 Horas ✨ Seriados",PRISON BREAKE 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460756.m3u8
-#EXTINF:-1 tvg-id="89" tvg-name="Paramount+ (JOGO 1)" tvg-logo="https://logos.appscms.xyz/logos/2025/Paramount.png" group-title="✅ Canais ✨ PPV",Paramount+ (JOGO 1)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460273.m3u8
-#EXTINF:-1 tvg-id="90" tvg-name="Paramount+ (JOGO 2)" tvg-logo="https://logos.appscms.xyz/logos/2025/Paramount.png" group-title="✅ Canais ✨ PPV",Paramount+ (JOGO 2)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460274.m3u8
-#EXTINF:-1 tvg-id="91" tvg-name="Paramount+ (JOGO 3)" tvg-logo="https://logos.appscms.xyz/logos/2025/Paramount.png" group-title="✅ Canais ✨ PPV",Paramount+ (JOGO 3)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460275.m3u8
-#EXTINF:-1 tvg-id="92" tvg-name="Paramount+ (JOGO 4)" tvg-logo="https://logos.appscms.xyz/logos/2025/Paramount.png" group-title="✅ Canais ✨ PPV",Paramount+ (JOGO 4)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460276.m3u8
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount+ (JOGO 5)" tvg-logo="https://logos.appscms.xyz/logos/2025/Paramount.png" group-title="✅ Canais ✨ PPV",Paramount+ (JOGO 5)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460277.m3u8
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount+ (JOGO 6)" tvg-logo="https://logos.appscms.xyz/logos/2025/Paramount.png" group-title="✅ Canais ✨ PPV",Paramount+ (JOGO 6)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460278.m3u8
 #EXTINF:-1 tvg-id="89" tvg-name="Paramount+ 1" tvg-logo="https://www.fontedecanais.gs/logos/canais/paramountplus.png" group-title="✅ Canais ✨ Esportes",Paramount+ 1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -3011,18 +1943,6 @@ http://64.31.23.207:80/08892467/61552913/3460232.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/324401.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REBELDE 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",REBELDE 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460617.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REBELDE 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",REBELDE 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460618.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REBELDE 03" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",REBELDE 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460619.m3u8
 #EXTINF:-1 tvg-id="Globo TV Rede Amazônica Boa Vista SD" tvg-name="REDE AMAZÔNICA BOA VISTA HD" tvg-logo="http://www.fontedecanais.gs/logos/canais/globo.png" group-title="✅ Canais ✨ Globo Norte",REDE AMAZÔNICA BOA VISTA HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -3051,18 +1971,6 @@ http://64.31.23.207:80/08892467/61552913/3459614.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3459781.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROUND SIX 01" tvg-logo="https://i.ibb.co/zhSHQnSL/roud-six-01.png" group-title="✅ 24 Horas ✨ Seriados",ROUND SIX 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460757.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROUND SIX 02" tvg-logo="https://i.ibb.co/1GZWfspM/round-six-02.png" group-title="✅ 24 Horas ✨ Seriados",ROUND SIX 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460758.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROUND SIX 03" tvg-logo="https://i.ibb.co/8DJR16N0/round-six-03.png" group-title="✅ 24 Horas ✨ Seriados",ROUND SIX 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460759.m3u8
 #EXTINF:-1 tvg-id="324" tvg-name="Realidade Universal FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/universalreality.png" group-title="✅ Canais ✨ Variedades",Realidade Universal FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -3263,30 +2171,6 @@ http://64.31.23.207:80/08892467/61552913/3459577.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3459576.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rodeio PBR" tvg-logo="" group-title="✅ Canais ✨ PPV",Rodeio PBR
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO 01" tvg-logo="https://www.themoviedb.org/t/p/w342/2lYlhwoeKQVm92nJAhD62risfjn.jpg" group-title="✅ 24 Horas ✨ Seriados",SAI DE BAIXO 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460760.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO 02" tvg-logo="https://www.themoviedb.org/t/p/w342/2lYlhwoeKQVm92nJAhD62risfjn.jpg" group-title="✅ 24 Horas ✨ Seriados",SAI DE BAIXO 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460761.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO 03" tvg-logo="https://www.themoviedb.org/t/p/w342/2lYlhwoeKQVm92nJAhD62risfjn.jpg" group-title="✅ 24 Horas ✨ Seriados",SAI DE BAIXO 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460762.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO 04" tvg-logo="https://www.themoviedb.org/t/p/w342/2lYlhwoeKQVm92nJAhD62risfjn.jpg" group-title="✅ 24 Horas ✨ Seriados",SAI DE BAIXO 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460763.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO 05" tvg-logo="https://www.themoviedb.org/t/p/w342/2lYlhwoeKQVm92nJAhD62risfjn.jpg" group-title="✅ 24 Horas ✨ Seriados",SAI DE BAIXO 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460764.m3u8
 #EXTINF:-1 tvg-id="SBT SD" tvg-name="SBT 4K" tvg-logo="http://logos.appscms.xyz/logos/2025/sbt.png" group-title="✅ Canais ✨ 4K",SBT 4K
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -3407,174 +2291,10 @@ http://64.31.23.207:80/08892467/61552913/324283.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/324285.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",SCOOBY-DOO 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460529.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",SCOOBY-DOO 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460530.m3u8
-#EXTINF:-1 tvg-id="Scooby Doo 24H" tvg-name="SCOOBY-DOO: CADE VOCE" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",SCOOBY-DOO: CADE VOCE
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460531.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO: MISTERIO SA" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",SCOOBY-DOO: MISTERIO SA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460532.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO: O QUE HA DE NOVO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",SCOOBY-DOO: O QUE HA DE NOVO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460533.m3u8
 #EXTINF:-1 tvg-id="SD vitalício" tvg-name="SD vitalício" tvg-logo="http://www.fontedecanais.me/logos/canais/lifetime.png" group-title="✅ Canais ✨ Variedades",SD vitalício
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/518573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SENDOKAI" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",SENDOKAI
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460534.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SHAMAN KING" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",SHAMAN KING
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460535.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SHAUN O CARNEIRO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",SHAUN O CARNEIRO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460536.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SHE-RA E AS PRINCESAS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",SHE-RA E AS PRINCESAS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460537.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SHURATO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",SHURATO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SITIO DO PICA-PAU AMARELO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",SITIO DO PICA-PAU AMARELO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460539.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE 01" tvg-logo="https://www.themoviedb.org/t/p/w342/exJKHHWi4jDcUxyXkK6g5owLYI9.jpg" group-title="✅ 24 Horas ✨ Seriados",SMALLVILLE 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460767.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE 02" tvg-logo="https://www.themoviedb.org/t/p/w342/f25Fsv6MygkIllszYjkiPj8y8By.jpg" group-title="✅ 24 Horas ✨ Seriados",SMALLVILLE 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460768.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE 03" tvg-logo="https://www.themoviedb.org/t/p/w342/n0fTWgmORn6ycCs9ab8djF2V7fP.jpg" group-title="✅ 24 Horas ✨ Seriados",SMALLVILLE 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460769.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE 04" tvg-logo="https://www.themoviedb.org/t/p/w342/upTQgoUibIio4K29EteFxyUyDo4.jpg" group-title="✅ 24 Horas ✨ Seriados",SMALLVILLE 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460770.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE 05" tvg-logo="https://www.themoviedb.org/t/p/w342/2e7JsP8lGXsuw3RuZ1dcG4Xm8Ls.jpg" group-title="✅ 24 Horas ✨ Seriados",SMALLVILLE 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460771.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SOMENTE/PRIVA - LUIZA MARCATO- 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",SOMENTE/PRIVA - LUIZA MARCATO- 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254896.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONLY/PRIVA - MULHER MELÃO - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",SOMENTE/PRIVA - MULHER MELÃO - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254891.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONIC" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",SONIC
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",SOUTH PARK 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460541.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",SOUTH PARK 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460542.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STRANGER THINGS 01" tvg-logo="https://i.ibb.co/JjmnJVs9/STRANGER-THINGS-01.png" group-title="✅ 24 Horas ✨ Seriados",STRANGER THINGS 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460777.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STRANGER THINGS 02" tvg-logo="https://i.ibb.co/x8zdddR2/STRANGER-THINGS-02.png" group-title="✅ 24 Horas ✨ Seriados",STRANGER THINGS 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460778.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STRANGER THINGS 03" tvg-logo="https://i.ibb.co/hRrQ3Tfp/STRANGER-THINGS-03.png" group-title="✅ 24 Horas ✨ Seriados",STRANGER THINGS 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460779.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STRANGER THINGS 04" tvg-logo="https://i.ibb.co/zgDpnFr/STRANGER-THINGS-04.png" group-title="✅ 24 Horas ✨ Seriados",STRANGER THINGS 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460780.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STRANGER THINGS 05: PARTE 01" tvg-logo="https://i.ibb.co/LX5kqvPg/STRANGER-THINGS-05.png" group-title="✅ 24 Horas ✨ Seriados",STRANGER THINGS 05: PARTE 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460781.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STRANGER THINGS 05: PARTE 02" tvg-logo="https://i.ibb.co/LX5kqvPg/STRANGER-THINGS-05.png" group-title="✅ 24 Horas ✨ Seriados",STRANGER THINGS 05: PARTE 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460782.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STREET FIGHT" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",STREET FIGHT
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460543.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SUPA STRIKAS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",SUPA STRIKAS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460544.m3u8
-#EXTINF:-1 tvg-id="Rede Super SD" tvg-name="SUPER CAMPEOES" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",SUPER CAMPEOES
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460545.m3u8
-#EXTINF:-1 tvg-id="Rede Super SD" tvg-name="SUPER CHOQUE" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",SUPER CHOQUE
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460546.m3u8
-#EXTINF:-1 tvg-id="Rede Super SD" tvg-name="SUPER IMA" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",SUPER IMA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460547.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL 01" tvg-logo="https://www.themoviedb.org/t/p/w342/f4NzMUpOqwzut7jML4IUZcHqkLt.jpg" group-title="✅ 24 Horas ✨ Seriados",SUPERNATURAL 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460783.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL 02" tvg-logo="https://www.themoviedb.org/t/p/w342/O1xXxsAWiCWrw5eMmGCs1JpFNY.jpg" group-title="✅ 24 Horas ✨ Seriados",SUPERNATURAL 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460784.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL 03" tvg-logo="https://www.themoviedb.org/t/p/w342/owiz98MIJInep0eOd4io97p69UO.jpg" group-title="✅ 24 Horas ✨ Seriados",SUPERNATURAL 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460785.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL 04" tvg-logo="https://www.themoviedb.org/t/p/w342/2FGxAP0zwgTZjK6Ev22sox1yIKH.jpg" group-title="✅ 24 Horas ✨ Seriados",SUPERNATURAL 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460786.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL 05" tvg-logo="https://www.themoviedb.org/t/p/w342/g0pAERtcvBwqDvFxfDbBPzfHoyQ.jpg" group-title="✅ 24 Horas ✨ Seriados",SUPERNATURAL 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460787.m3u8
-#EXTINF:-1 tvg-id="82" tvg-name="Sony Channel FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/sonychannel.png" group-title="✅ Canais ✨ Filmes e Séries",Sony Channel FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324457.m3u8
-#EXTINF:-1 tvg-id="82" tvg-name="Sony Channel HD" tvg-logo="http://logos.appscms.xyz/logos/2025/sonychannel.png" group-title="✅ Canais ✨ Filmes e Séries",Sony Channel HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324459.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Sony Movies HD" tvg-logo="http://logos.appscms.xyz/logos/2025/Sonymovies.png" group-title="✅ Canais ✨ Filmes e Séries",Sony Movies HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony One Emoções HD" tvg-logo="http://logos.appscms.xyz/logos/2025/Sonyone.png" group-title="✅ Canais ✨ Filmes e Séries",Sony One Emoções HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324517.m3u8
 #EXTINF:-1 tvg-id="SporTV 2 SD" tvg-name="SporTV 2 FHD" tvg-logo="http://www.fontedecanais.gs/logos/canais/sportv2.png" group-title="✅ Canais ✨SporTV",SporTV 2 FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -3619,314 +2339,22 @@ http://64.31.23.207:80/08892467/61552913/3460202.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3460158.m3u8
-#EXTINF:-1 tvg-id="296" tvg-name="SportyNet 01" tvg-logo = "https://media.licdn.com/dms/image/v2/D4D0BAQHMo-XwSe9VaA/company-logo_200_200/B4DZfqS6OLHAAM- /0/1751982515588/sportynetbrasil_logo?e=2147483647&v=beta&t=MlJxly_3QTRXxzdgcf_cp6gr-sfEdtsOPRb1jDKiz20" group-title="✅ Canais ✨ PPV",SportyNet 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460269.m3u8
 #EXTINF:-1 tvg-id="297" tvg-name="SportyNet 02" tvg-logo="http://www.fontedecanais.gs/logos/canais/sportynet2.png" group-title="✅ Canais ✨ Esportes",SportyNet 02
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3460159.m3u8
-#EXTINF:-1 tvg-id="297" tvg-name="SportyNet 02" tvg-logo = "https://media.licdn.com/dms/image/v2/D4D0BAQHMo-XwSe9VaA/company-logo_200_200/B4DZfqS6OLHAAM- /0/1751982515588/sportynetbrasil_logo?e=2147483647&v=beta&t=MlJxly_3QTRXxzdgcf_cp6gr-sfEdtsOPRb1jDKiz20" group-title="✅ Canais ✨ PPV",SportyNet 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460270.m3u8
 #EXTINF:-1 tvg-id="298" tvg-name="SportyNet 03" tvg-logo="http://www.fontedecanais.gs/logos/canais/sportynet3.png" group-title="✅ Canais ✨ Esportes",SportyNet 03
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3460160.m3u8
-#EXTINF:-1 tvg-id="298" tvg-name="SportyNet 03" tvg-logo = "https://media.licdn.com/dms/image/v2/D4D0BAQHMo-XwSe9VaA/company-logo_200_200/B4DZfqS6OLHAAM- /0/1751982515588/sportynetbrasil_logo?e=2147483647&v=beta&t=MlJxly_3QTRXxzdgcf_cp6gr-sfEdtsOPRb1jDKiz20" group-title="✅ Canais ✨ PPV",SportyNet 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460271.m3u8
 #EXTINF:-1 tvg-id="Estadio TNT Sports 04" tvg-name="SportyNet 04" tvg-logo="http://www.fontedecanais.gs/logos/canais/sportynet.png" group-title="✅ Canais ✨ Esportes",SportyNet 04
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3460161.m3u8
-#EXTINF:-1 tvg-id="Estadio TNT Sports 04" tvg-name="SportyNet 04" tvg-logo = "https://media.licdn.com/dms/image/v2/D4D0BAQHMo-XwSe9VaA/company-logo_200_200/B4DZfqS6OLHAAM- /0/1751982515588/sportynetbrasil_logo?e=2147483647&v=beta&t=MlJxly_3QTRXxzdgcf_cp6gr-sfEdtsOPRb1jDKiz20" group-title="✅ Canais ✨ PPV",SportyNet 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460272.m3u8
 #EXTINF:-1 tvg-id="Studio Universal SD" tvg-name="Studio Universal 4K" tvg-logo="http://logos.appscms.xyz/logos/2025/studiouniversal.png" group-title="✅ Canais ✨ 4K",Studio Universal 4K
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/324392.m3u8
-#EXTINF:-1 tvg-id="Studio Universal SD" tvg-name="Studio Universal FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/studiouniversal.png" group-title="✅ Canais ✨ Filmes e Séries",Studio Universal FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324469.m3u8
-#EXTINF:-1 tvg-id="Studio Universal SD" tvg-name="Studio Universal HD" tvg-logo="http://logos.appscms.xyz/logos/2025/studiouniversal.png" group-title="✅ Canais ✨ Filmes e Séries",Studio Universal HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324471.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SÓ/PRIVA -LUANA OLIVEIRA - 24H" tvg-logo="http://i.postimg.cc/V6sCvtJY/onlyfans.png" group-title="✅ 24 Horas ❌ Onlyfans",SÓ/PRIVA -LUANA OLIVEIRA - 24H
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3254901.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TAZ MANIA" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",TAZ MANIA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460548.m3u8
-#EXTINF:-1 tvg-id="TCM SD" tvg-name="TCM FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/tcm.png" group-title="✅ Canais ✨ Filmes e Séries",TCM FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324475.m3u8
-#EXTINF:-1 tvg-id="TCM SD" tvg-name="TCM HD" tvg-logo="http://logos.appscms.xyz/logos/2025/tcm.png" group-title="✅ Canais ✨ Filmes e Séries",TCM HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324477.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELETUBIES" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",TELETUBIES
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460549.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TERRA E PAIXAO 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",TERRA E PAIXAO 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460620.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TERRA E PAIXAO 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",TERRA E PAIXAO 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460621.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE BIG BANG 01" tvg-logo="https://www.themoviedb.org/t/p/w342/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg" group-title="✅ 24 Horas ✨ Seriados",THE BIG BANG 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460793.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE BIG BANG 02" tvg-logo="https://www.themoviedb.org/t/p/w342/2NBwUBZ4clwj6qO9fBinfxiB0dR.jpg" group-title="✅ 24 Horas ✨ Seriados",THE BIG BANG 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460794.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE BIG BANG 03" tvg-logo="https://www.themoviedb.org/t/p/w342/j64iUb52W2IYE9qV9pLi5tFq8IE.jpg" group-title="✅ 24 Horas ✨ Seriados",THE BIG BANG 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460795.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE BIG BANG 04" tvg-logo="https://www.themoviedb.org/t/p/w342/hM2TYCmOVXop1xhLA1Mbqyg60ze.jpg" group-title="✅ 24 Horas ✨ Seriados",THE BIG BANG 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460796.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE BIG BANG 05" tvg-logo="https://www.themoviedb.org/t/p/w342/l08Z8ihAsTRPEuOehbwk4axg3cu.jpg" group-title="✅ 24 Horas ✨ Seriados",THE BIG BANG 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460797.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE BOYS 01" tvg-logo="https://www.themoviedb.org/t/p/w342/g3HjUeFCwKOfBxlM97lv016mnol.jpg" group-title="✅ 24 Horas ✨ Seriados",THE BOYS 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460805.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE BOYS 02" tvg-logo="https://www.themoviedb.org/t/p/w342/oFGMGn1ywvvYobxOcPKVytN3AQK.jpg" group-title="✅ 24 Horas ✨ Seriados",THE BOYS 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE BOYS 03" tvg-logo="https://i.ibb.co/XkCVLY68/the-boys-03.png" group-title="✅ 24 Horas ✨ Seriados",THE BOYS 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460807.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE BOYS 04" tvg-logo="https://i.ibb.co/27Pm2Rh9/THE-BOYS-04.png" group-title="✅ 24 Horas ✨ Seriados",THE BOYS 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460808.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE BOYS 06 - GEN V 01" tvg-logo="https://i.ibb.co/twhFS32B/gen-v-01.png" group-title="✅ 24 Horas ✨ Seriados",THE BOYS 06 - GEN V 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460809.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE BOYS 07 - GEN V 02" tvg-logo="https://i.ibb.co/VWP01QLW/gen-v-02.png" group-title="✅ 24 Horas ✨ Seriados",THE BOYS 07 - GEN V 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460810.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE GOOD DOCTOR 01" tvg-logo="https://www.themoviedb.org/t/p/w342/b1YVYvSrnzcpU08JCA4oeFWAnNq.jpg" group-title="✅ 24 Horas ✨ Seriados",THE GOOD DOCTOR 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460811.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE GOOD DOCTOR 02" tvg-logo="https://www.themoviedb.org/t/p/w342/sIq4SFloM0JSeRNAQVqb5g5zAng.jpg" group-title="✅ 24 Horas ✨ Seriados",THE GOOD DOCTOR 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460812.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE GOOD DOCTOR 03" tvg-logo="https://www.themoviedb.org/t/p/w342/8QFssOwaWZ3eB60cGwDpfrZBscv.jpg" group-title="✅ 24 Horas ✨ Seriados",THE GOOD DOCTOR 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460813.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE GOOD DOCTOR 04" tvg-logo="https://www.themoviedb.org/t/p/w342/6tfT03sGp9k4c0J3dypjrI8TSAI.jpg" group-title="✅ 24 Horas ✨ Seriados",THE GOOD DOCTOR 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460814.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE GOOD DOCTOR 05" tvg-logo="https://i.ibb.co/RT6Q3TCx/the-good-doctor-05.png" group-title="✅ 24 Horas ✨ Seriados",THE GOOD DOCTOR 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460815.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE LAST OF US 01" tvg-logo="https://i.ibb.co/0Vyn0FZ6/the-last-of-us-01.png" group-title="✅ 24 Horas ✨ Seriados",THE LAST OF US 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460818.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE LAST OF US 02" tvg-logo="https://i.ibb.co/q3pQmv6Q/the-last-of-us-02.png" group-title="✅ 24 Horas ✨ Seriados",THE LAST OF US 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460819.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE MIDDLE 01" tvg-logo="https://www.themoviedb.org/t/p/w342/dbFsARgCGve7SdbxpwqTBNo3UTI.jpg" group-title="✅ 24 Horas ✨ Seriados",THE MIDDLE 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460820.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE MIDDLE 02" tvg-logo="https://www.themoviedb.org/t/p/w342/sQutv57fgz2e54be8RxvoZrQpLt.jpg" group-title="✅ 24 Horas ✨ Seriados",THE MIDDLE 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460821.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE MIDDLE 03" tvg-logo="https://www.themoviedb.org/t/p/w342/o20PrIWhq7a5VtFbcxQsM95qaI4.jpg" group-title="✅ 24 Horas ✨ Seriados",THE MIDDLE 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460822.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE MIDDLE 04" tvg-logo="https://www.themoviedb.org/t/p/w342/7WaBgPSBtS53IS44BvhY4wvCQyo.jpg" group-title="✅ 24 Horas ✨ Seriados",THE MIDDLE 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460823.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE MIDDLE 05" tvg-logo="https://www.themoviedb.org/t/p/w342/4M7l0C6QUKfiIjE5fSlVObVO6tw.jpg" group-title="✅ 24 Horas ✨ Seriados",THE MIDDLE 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460824.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE MIDDLE 09" tvg-logo="https://www.themoviedb.org/t/p/w342/f9EhfFZMRhqoLrQnWfi3M8zpPQe.jpg" group-title="✅ 24 Horas ✨ Seriados",THE MIDDLE 09
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460828.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE PITT 01" tvg-logo="https://i.ibb.co/7Nvpm9r0/the-pitt-01.png" group-title="✅ 24 Horas ✨ Seriados",THE PITT 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460829.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE VAMPIRES 01" tvg-logo="https://i.ibb.co/qMwhmC6c/the-vampires-01.png" group-title="✅ 24 Horas ✨ Seriados",THE VAMPIRES 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460830.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE VAMPIRES 02" tvg-logo="https://i.ibb.co/9HKNVM0J/the-vampires-02.png" group-title="✅ 24 Horas ✨ Seriados",THE VAMPIRES 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460831.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE VAMPIRES 03" tvg-logo="https://i.ibb.co/Lzwc5hFB/the-vampires-03.png" group-title="✅ 24 Horas ✨ Seriados",THE VAMPIRES 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460832.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE VAMPIRES 04" tvg-logo="https://i.ibb.co/27mZYMMc/the-vampires-04.png" group-title="✅ 24 Horas ✨ Seriados",THE VAMPIRES 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460833.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE VAMPIRES 05" tvg-logo="https://i.ibb.co/99hyPkcs/the-vampires-05.png" group-title="✅ 24 Horas ✨ Seriados",THE VAMPIRES 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460834.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE VAMPIRES: OS ORIGINAIS 01" tvg-logo="https://i.ibb.co/HpGMG5tG/the-originais-01.png" group-title="✅ 24 Horas ✨ Seriados",THE VAMPIRES: OS ORIGINAIS 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460838.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE VAMPIRES: OS ORIGINAIS 02" tvg-logo="https://i.ibb.co/MkXGf3QR/the-originais-02.png" group-title="✅ 24 Horas ✨ Seriados",THE VAMPIRES: OS ORIGINAIS 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460839.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE VAMPIRES: OS ORIGINAIS 03" tvg-logo="https://i.ibb.co/7JZvhq49/the-originais-03.png" group-title="✅ 24 Horas ✨ Seriados",THE VAMPIRES: OS ORIGINAIS 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460840.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE VAMPIRES: OS ORIGINAIS 04" tvg-logo="https://i.ibb.co/BVSLbsXN/the-originais-04.png" group-title="✅ 24 Horas ✨ Seriados",THE VAMPIRES: OS ORIGINAIS 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460841.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE VAMPIRES: OS ORIGINAIS 05" tvg-logo="https://i.ibb.co/Z6J800jq/the-originais-05.png" group-title="✅ 24 Horas ✨ Seriados",THE VAMPIRES: OS ORIGINAIS 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460842.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD" tvg-logo="https://www.themoviedb.org/t/p/w342/kKN1Klhdxhbiwe8TBXIs6NYPr4C.jpg" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460847.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD - DARYL DIXSON 01" tvg-logo="https://i.ibb.co/MkPyx9kp/THE-WALKING-DEAD-DARYL-DIXSON-01.png" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD - DARYL DIXSON 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460862.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD - DARYL DIXSON 02" tvg-logo="https://i.ibb.co/Rp2krwHT/THE-WALKING-DEAD-DARYL-DIXSON-02.png" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD - DARYL DIXSON 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460863.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD - DARYL DIXSON 03" tvg-logo="https://i.ibb.co/Y7dQxbQ1/THE-WALKING-DEAD-DARYL-DIXSON-03.png" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD - DARYL DIXSON 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460864.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD - DEAD CITY 01" tvg-logo="https://i.ibb.co/YB7Gfkyc/THE-WALKING-DEAD-DEAD-CITY-01.png" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD - DEAD CITY 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460865.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD - DEAD CITY 02" tvg-logo="https://i.ibb.co/YFGxkRYj/THE-WALKING-DEAD-DEAD-CITY-02.png" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD - DEAD CITY 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460866.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD - RICK GRIMES" tvg-logo="https://i.ibb.co/ksJWfnZz/THE-WALKING-DEAD-RICK-GRIMES.png" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD - RICK GRIMES
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460867.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD - TALES OF" tvg-logo="https://i.ibb.co/N67jqCBL/THE-WALKING-DEAD-TALES-OF.png" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD - TALES OF
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460868.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD 01" tvg-logo="https://www.themoviedb.org/t/p/w342/kKN1Klhdxhbiwe8TBXIs6NYPr4C.jpg" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460848.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD 02" tvg-logo="https://www.themoviedb.org/t/p/w342/77sdrexHQx3uQRM68Ffdanw8QaV.jpg" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460849.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD 03" tvg-logo="https://www.themoviedb.org/t/p/w342/8Vy2SK2aMIDW3c6NeslQk7nc6on.jpg" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460850.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD 04" tvg-logo="https://www.themoviedb.org/t/p/w342/1bFtBZg4ehney9ogQncllQAeX8o.jpg" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460851.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD 05" tvg-logo="https://www.themoviedb.org/t/p/w342/cimCEzhKLayG91lrAkn8E5ZQc7x.jpg" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460852.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD 10: PARTE 01" tvg-logo="https://www.themoviedb.org/t/p/w342/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD 10: PARTE 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460857.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD 10: PARTE 02" tvg-logo="https://www.themoviedb.org/t/p/w342/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD 10: PARTE 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460858.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD 11: PARTE 01" tvg-logo="https://www.themoviedb.org/t/p/w342/2ypIGPkSJSaY1F059VzgVA6f6OJ.jpg" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD 11: PARTE 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460859.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD 11: PARTE 02" tvg-logo="https://www.themoviedb.org/t/p/w342/2ypIGPkSJSaY1F059VzgVA6f6OJ.jpg" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD 11: PARTE 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460860.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD 11: PARTE 03" tvg-logo="https://www.themoviedb.org/t/p/w342/2ypIGPkSJSaY1F059VzgVA6f6OJ.jpg" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD 11: PARTE 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460861.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD: FEAR 01" tvg-logo="https://www.themoviedb.org/t/p/w342/8mbtUfJR25uNUUAFPCBGeQ6CQKd.jpg" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD: FEAR 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460869.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD: FEAR 02" tvg-logo="https://www.themoviedb.org/t/p/w342/3xpsivfIuEI2p7hzcFY8IBugART.jpg" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD: FEAR 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460870.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD: FEAR 03" tvg-logo="https://www.themoviedb.org/t/p/w342/ga5lTdlkm9Y35G2bg3KltSbrZVb.jpg" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD: FEAR 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460871.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD: FEAR 04" tvg-logo="https://www.themoviedb.org/t/p/w342/tWjcroLpWaHe9dTKKN2TXfQTLNf.jpg" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD: FEAR 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460872.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD: FEAR 05" tvg-logo="https://www.themoviedb.org/t/p/w342/srEnJZ7FqzdA3JiTc8kwb6Lyhgn.jpg" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD: FEAR 05
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460873.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD: MUNDO NOVO 01" tvg-logo="https://www.themoviedb.org/t/p/w342/z31GxpVgDsFAF4paZR8PRsiP16D.jpg" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD: MUNDO NOVO 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460876.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD: MUNDO NOVO 02" tvg-logo="https://www.themoviedb.org/t/p/w342/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg" group-title="✅ 24 Horas ✨ Seriados",THE WALKING DEAD: MUNDO NOVO 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460877.m3u8
 #EXTINF:-1 tvg-id="TLC SD" tvg-name="TLC FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/tlc.png" group-title="✅ Canais ✨ Variedades",TLC FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -3939,86 +2367,6 @@ http://64.31.23.207:80/08892467/61552913/518587.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/518588.m3u8
-#EXTINF:-1 tvg-id="TNT SD" tvg-name="TNT FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/tnt.png" group-title="✅ Canais ✨ Filmes e Séries",TNT FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324481.m3u8
-#EXTINF:-1 tvg-id="TNT SD" tvg-name="TNT HD" tvg-logo="http://logos.appscms.xyz/logos/2025/tnt.png" group-title="✅ Canais ✨ Filmes e Séries",TNT HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324483.m3u8
-#EXTINF:-1 tvg-id="299" tvg-name="TNT Novelas FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/tntnovelas.png" group-title="✅ Canais ✨ Filmes e Séries",TNT Novelas FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324485.m3u8
-#EXTINF:-1 tvg-id="299" tvg-name="TNT Novelas HD" tvg-logo="http://logos.appscms.xyz/logos/2025/tntnovelas.png" group-title="✅ Canais ✨ Filmes e Séries",TNT Novelas HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324487.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="TNT Séries FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/tntnovelas.png" group-title="✅ Canais ✨ Filmes e Séries",TNT Séries FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324493.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="TNT Séries HD" tvg-logo="http://logos.appscms.xyz/logos/2025/tntnovelas.png" group-title="✅ Canais ✨ Filmes e Séries",TNT Séries HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324495.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS 01" tvg-logo="https://www.themoviedb.org/t/p/w342/kWhuuR2NIEXp4mDR3VIdWVJSdgf.jpg" group-title="✅ 24 Horas ✨ Seriados",TODO MUNDO ODEIA O CHRIS 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460645.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS 02" tvg-logo="https://www.themoviedb.org/t/p/w342/e28wcIlN6dnFBNEPJJSPaVgpTvd.jpg" group-title="✅ 24 Horas ✨ Seriados",TODO MUNDO ODEIA O CHRIS 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460646.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS 03" tvg-logo="https://www.themoviedb.org/t/p/w342/fiR1twMQ3BiaBC9G7TqaM2xMXAS.jpg" group-title="✅ 24 Horas ✨ Seriados",TODO MUNDO ODEIA O CHRIS 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460647.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS 04" tvg-logo="https://www.themoviedb.org/t/p/w342/2gPfpUcH14cOOCwQJ55ZnB7yakT.jpg" group-title="✅ 24 Horas ✨ Seriados",TODO MUNDO ODEIA O CHRIS 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460648.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TOM E JERRY 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",TOM E JERRY 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460550.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TOM E JERRY 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",TOM E JERRY 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460551.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TOM E JERRY 03" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",TOM E JERRY 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460552.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TOM E JERRY 04" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",TOM E JERRY 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460553.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRANSFORMERS PRIME" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",TRANSFORMERS PRIME
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460554.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRANSFORMERS RESCUE BOTS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",TRANSFORMERS RESCUE BOTS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460555.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRES ESPIAS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",TRES ESPIAS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460556.m3u8
-#EXTINF:-1 tvg-id="Turma da Mônica 24H" tvg-name="TURMA DA MÔNICA" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",TURMA DA MÔNICA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460557.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TURMA DO RONALDINHO GAUCHO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",TURMA DO RONALDINHO GAUCHO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460558.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Adulta Online Lésbica" tvg-logo="" group-title="✅ Canais ♨️ XXX Adultos",TV Adulta Online Lésbica
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/1407538.m3u8
 #EXTINF:-1 tvg-id="TV Aparecida SD" tvg-name="TV Aparecida" tvg-logo="http://www.fontedecanais.gs/logos/canais/tvaparecida.png" group-title="✅ Canais ✨ Religiosos",TV Aparecida
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -4063,114 +2411,34 @@ http://64.31.23.207:80/08892467/61552913/1882636.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3459586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVE BA (JOGO 01)" tvg-logo="http://logos.appscms.xyz/logos/2025/tveba.png" group-title="✅ Canais ✨ PPV",TVE BA (JOGO 01)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460259.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVE Bahia" tvg-logo="http://i.imgur.com/IWGyp65.jpeg" group-title="✅ Canais ✨ Abertos",TVE Bahia
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3459590.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVE ES (JOGO 01)" tvg-logo="" group-title="✅ Canais ✨ PPV",TVE ES (JOGO 01)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460260.m3u8
 #EXTINF:-1 tvg-id="Telecine Action SD" tvg-name="Telecine Action 4K" tvg-logo="http://logos.appscms.xyz/logos/2025/telecineaction.png" group-title="✅ Canais ✨ 4K",Telecine Action 4K
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/324393.m3u8
-#EXTINF:-1 tvg-id="Telecine Action SD" tvg-name="Telecine Action FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/telecineaction.png" group-title="✅ Canais ✨ Telecine",Telecine Action FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324314.m3u8
-#EXTINF:-1 tvg-id="Telecine Action SD" tvg-name="Telecine Action HD" tvg-logo="http://logos.appscms.xyz/logos/2025/telecineaction.png" group-title="✅ Canais ✨ Telecine",Telecine Action HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324316.m3u8
-#EXTINF:-1 tvg-id="Telecine Action SD" tvg-name="Telecine Action SD" tvg-logo="http://logos.appscms.xyz/logos/2025/telecineaction.png" group-title="✅ Canais ✨ Telecine",Telecine Action SD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324318.m3u8
 #EXTINF:-1 tvg-id="Telecine Cult SD" tvg-name="Telecine Cult 4K" tvg-logo="http://logos.appscms.xyz/logos/2025/telecinecult.png" group-title="✅ Canais ✨ 4K",Telecine Cult 4K
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/324394.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult SD" tvg-name="Telecine Cult FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/telecinecult.png" group-title="✅ Canais ✨ Telecine",Telecine Cult FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324320.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult SD" tvg-name="Telecine Cult HD" tvg-logo="http://logos.appscms.xyz/logos/2025/telecinecult.png" group-title="✅ Canais ✨ Telecine",Telecine Cult HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324322.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult SD" tvg-name="Telecine Cult SD" tvg-logo="http://logos.appscms.xyz/logos/2025/telecinecult.png" group-title="✅ Canais ✨ Telecine",Telecine Cult SD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324324.m3u8
 #EXTINF:-1 tvg-id="Telecine Fun SD" tvg-name="Telecine Fun 4K" tvg-logo="http://logos.appscms.xyz/logos/2025/telecinefun.png" group-title="✅ Canais ✨ 4K",Telecine Fun 4K
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/324395.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun SD" tvg-name="Telecine Fun FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/telecinefun.png" group-title="✅ Canais ✨ Telecine",Telecine Fun FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324326.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun SD" tvg-name="Telecine Fun HD" tvg-logo="http://logos.appscms.xyz/logos/2025/telecinefun.png" group-title="✅ Canais ✨ Telecine",Telecine Fun HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324328.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun SD" tvg-name="Telecine Fun SD" tvg-logo="http://logos.appscms.xyz/logos/2025/telecinefun.png" group-title="✅ Canais ✨ Telecine",Telecine Fun SD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324330.m3u8
 #EXTINF:-1 tvg-id="Telecine Pipoca SD" tvg-name="Telecine Pipoca 4K" tvg-logo="http://logos.appscms.xyz/logos/2025/telecinepipoca.png" group-title="✅ Canais ✨ 4K",Telecine Pipoca 4K
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/324396.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca SD" tvg-name="Telecine Pipoca FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/telecinepipoca.png" group-title="✅ Canais ✨ Telecine",Telecine Pipoca FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324332.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca SD" tvg-name="Telecine Pipoca HD" tvg-logo="http://logos.appscms.xyz/logos/2025/telecinepipoca.png" group-title="✅ Canais ✨ Telecine",Telecine Pipoca HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324334.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca SD" tvg-name="Telecine Pipoca SD" tvg-logo="http://logos.appscms.xyz/logos/2025/telecinepipoca.png" group-title="✅ Canais ✨ Telecine",Telecine Pipoca SD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324336.m3u8
 #EXTINF:-1 tvg-id="Telecine Premium SD" tvg-name="Telecine Premium 4K" tvg-logo="http://logos.appscms.xyz/logos/2025/telecinepremium.png" group-title="✅ Canais ✨ 4K",Telecine Premium 4K
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/324397.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium SD" tvg-name="Telecine Premium FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/telecinepremium.png" group-title="✅ Canais ✨ Telecine",Telecine Premium FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324338.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium SD" tvg-name="Telecine Premium HD" tvg-logo="http://logos.appscms.xyz/logos/2025/telecinepremium.png" group-title="✅ Canais ✨ Telecine",Telecine Premium HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324340.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium SD" tvg-name="Telecine Premium SD" tvg-logo="http://logos.appscms.xyz/logos/2025/telecinepremium.png" group-title="✅ Canais ✨ Telecine",Telecine Premium SD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324342.m3u8
 #EXTINF:-1 tvg-id="Telecine Touch SD" tvg-name="Telecine Touch 4K" tvg-logo="http://logos.appscms.xyz/logos/2025/telecinetouch.png" group-title="✅ Canais ✨ 4K",Telecine Touch 4K
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/324398.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch SD" tvg-name="Telecine Touch FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/telecinetouch.png" group-title="✅ Canais ✨ Telecine",Telecine Touch FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324344.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch SD" tvg-name="Telecine Touch HD" tvg-logo="http://logos.appscms.xyz/logos/2025/telecinetouch.png" group-title="✅ Canais ✨ Telecine",Telecine Touch HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324346.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch SD" tvg-name="Telecine Touch SD" tvg-logo="http://logos.appscms.xyz/logos/2025/telecinetouch.png" group-title="✅ Canais ✨ Telecine",Telecine Touch SD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324348.m3u8
 #EXTINF:-1 tvg-id="Terra Viva SD" tvg-name="Terra Viva" tvg-logo="https://i.imgur.com/0idNHMj.png" group-title="✅ Canais ✨ Abertos",Terra Viva
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -4259,102 +2527,6 @@ http://64.31.23.207:80/08892467/61552913/297547.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/297550.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UMA FAMILIA DA PESADA 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",UMA FAMILIA DA PESADA 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460560.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UMA FAMÍLIA DA PESADA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",UMA FAMÍLIA DA PESADA 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460559.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UMA FAZENDA MALUCA" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",UMA FAZENDA MALUCA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460561.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URSINHOS CARINHOSOS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",URSINHOS CARINHOSOS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460562.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URSO SEM CURSO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",URSO SEM CURSO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460563.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="USA Network FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/usa.png" group-title="✅ Canais ✨ Filmes e Séries",USA Network FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324505.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="USA Network HD" tvg-logo="http://logos.appscms.xyz/logos/2025/usa.png" group-title="✅ Canais ✨ Filmes e Séries",USA Network HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324507.m3u8
-#EXTINF:-1 tvg-id="Universal Channel SD" tvg-name="Universal Channel FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/universaltv.png" group-title="✅ Canais ✨ Filmes e Séries",Universal Channel FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324499.m3u8
-#EXTINF:-1 tvg-id="Universal Channel SD" tvg-name="Universal Channel HD" tvg-logo="http://logos.appscms.xyz/logos/2025/universaltv.png" group-title="✅ Canais ✨ Filmes e Séries",Universal Channel HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VAMP 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",VAMP 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460622.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VAMP 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",VAMP 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460623.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VELMA" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",VELMA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460564.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VELOZES E FURIOSOS: ESPIOES DO ASFALTO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",VELOZES E FURIOSOS: ESPIOES DO ASFALTO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460565.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VERA EO REINO DO ARCO IRIS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",VERA EO REINO DO ARCO IRIS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460566.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VERDADES SECRETAS 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",VERDADES SECRETAS 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460624.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VERDADES SECRETAS 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",VERDADES SECRETAS 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460625.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VERDADES SECRETAS 03" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",VERDADES SECRETAS 03
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460626.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VERDADES SECRETAS 04" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas ✨Novelas",VERDADES SECRETAS 04
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460627.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VINGADORES OS SUPER HEROIS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",VINGADORES OS SUPER HEROIS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460567.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VINGADORES UNIDOS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",VINGADORES UNIDOS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460568.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOVO SMURF" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",VOVO SMURF
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460569.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vídeos Hardcore Sem Parar" tvg-logo="" group-title="✅ Canais ♨️ XXX Adultos",Vídeos Hardcore Sem Parar
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/1407533.m3u8
-#EXTINF:-1 tvg-id="Warner Channel SD" tvg-name="Warner Channel FHD" tvg-logo="http://logos.appscms.xyz/logos/2025/warnerchannel.png" group-title="✅ Canais ✨ Filmes e Séries",Warner Channel FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324511.m3u8
-#EXTINF:-1 tvg-id="Warner Channel SD" tvg-name="Warner Channel HD" tvg-logo="http://logos.appscms.xyz/logos/2025/warnerchannel.png" group-title="✅ Canais ✨ Filmes e Séries",Warner Channel HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/324513.m3u8
 #EXTINF:-1 tvg-id="Woohoo SD" tvg-name="WooHoo HD" tvg-logo="http://www.fontedecanais.me/logos/canais/woohoo.png" group-title="✅ Canais ✨ Variedades",WooHoo HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -4363,34 +2535,10 @@ http://64.31.23.207:80/08892467/61552913/518599.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/518600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="X-MEN A SERIE" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",X-MEN A SERIE
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460570.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="X-MEN EVOLUTION" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",X-MEN EVOLUTION
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460571.m3u8
 #EXTINF:-1 tvg-id="439" tvg-name="XSports" tvg-logo="http://www.fontedecanais.gs/logos/canais/xsports.png" group-title="✅ Canais ✨ Esportes",XSports
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3460175.m3u8
-#EXTINF:-1 tvg-id="439" tvg-name="Xsport FHD" tvg-logo="https://i0.wp.com/portaltrend.com.br/wp-content/uploads/2025/03/x-sports.png?fit=1920%2C1080&ssl=1" group-title="✅ Canais ✨ PPV",Xsport FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460262.m3u8
-#EXTINF:-1 tvg-id="439" tvg-name="Xsport HD" tvg-logo="https://i0.wp.com/portaltrend.com.br/wp-content/uploads/2025/03/x-sports.png?fit=1920%2C1080&ssl=1" group-title="✅ Canais ✨ PPV",Xsport HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460263.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZUZUBALANDIA" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="✅ 24 Horas✨Desenhos",ZUZUBALANDIA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460572.m3u8
-#EXTINF:-1 tvg-id="O Tempo Sports" tvg-name="Zapping Sports" tvg-logo="http://logos.appscms.xyz/logos/2025/zappingsports.png" group-title="✅ Canais ✨ PPV",Zapping Sports
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460261.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÁREA RESTRITA DO AEROPORTO" tvg-logo="http://xvbroker.click:80/images/dsAt8cMDBjbP3mVNdeYR4Vln2ZyBZpf6UImqVMpJX6g5QngYjG1K5Rghi2qcfLTA.png" group-title="✅ Canais ✨Documentários",ÁREA RESTRITA DO AEROPORTO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
