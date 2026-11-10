@@ -307,10 +307,6 @@ http://64.31.23.207:80/08892467/61552913/297938.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/324382.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="Discovery H&H FHD" tvg-logo="http://logos.imperioapps.top/DISCOVERY_H_H.png" group-title="✅ Canais ✨ Discovery",Discovery H&H FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/297939.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="Discovery H&H SD" tvg-logo="http://logos.imperioapps.top/DISCOVERY_H_H.png" group-title="✅ Canais ✨ Discovery",Discovery H&H SD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -335,10 +331,6 @@ http://64.31.23.207:80/08892467/61552913/297945.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/297951.m3u8
-#EXTINF:-1 tvg-id="Discovery Theater SD" tvg-name="Discovery Theater HD" tvg-logo="http://logos.imperioapps.top/DISCOVERY_THEATER.png" group-title="✅ Canais ✨ Discovery",Discovery Theater HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/297955.m3u8
 #EXTINF:-1 tvg-id="Discovery Turbo SD" tvg-name="Discovery Turbo 4K" tvg-logo="http://logos.appscms.xyz/logos/2025/discoveryturbo.png" group-title="✅ Canais ✨ 4K",Discovery Turbo 4K
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
