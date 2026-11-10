@@ -519,10 +519,6 @@ http://64.31.23.207:80/08892467/61552913/3460184.m3u8
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3460211.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FILHINHO DA MAMAE" tvg-logo="http://xvbroker.click:80/images/dsAt8cMDBjbP3mVNdeYR4Vln2ZyBZpf6UImqVMpJX6g5QngYjG1K5Rghi2qcfLTA.png" group-title="✅ Canais ✨Documentários",FILHINHO DA MAMAE
-#EXTVLCOPT:network-caching=20000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/2945301.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="FishTV FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/fishtv.png" group-title="✅ Canais ✨ Variedades",FishTV FHD
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
@@ -1695,10 +1691,6 @@ http://64.31.23.207:80/08892467/61552913/3460236.m3u8
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3460237.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX 06" tvg-logo="http://www.fontedecanais.gs/logos/canais/max.png" group-title="✅ Canais ✨Max",MAX 06
-#EXTVLCOPT:network-caching=20000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3460238.m3u8
 #EXTINF:-1 tvg-id="100" tvg-name="Modo Viagem FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/modoviagem.png" group-title="✅ Canais ✨ Variedades",Modo Viagem FHD
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
