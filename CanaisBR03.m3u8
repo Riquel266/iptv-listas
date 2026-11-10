@@ -579,14 +579,14 @@ http://64.31.23.207:80/08892467/61552913/3460169.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3460170.m3u8
-#EXTINF:-1 tvg-id="Cine Sky 1" tvg-name="Cine SKY 01" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="✅ Canais ✨ Cine Sky",Cine SKY 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/1882617.m3u8
 #EXTINF:-1 tvg-id="Cine Sky 1" tvg-name="Cine SKY 01" tvg-logo="http://www.fontedecanais.dev/logos/canais/cinesky.png" group-title="✅ Canais ✨ Cine Sky",Cine SKY 01
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/1832882.m3u8
+#EXTINF:-1 tvg-id="Cine Sky 1" tvg-name="Cine SKY 01" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="✅ Canais ✨ Cine Sky",Cine SKY 01
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-reconnect=true
+http://64.31.23.207:80/08892467/61552913/1882617.m3u8
 #EXTINF:-1 tvg-id="Cine Sky 2" tvg-name="Cine SKY 02" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="✅ Canais ✨ Cine Sky",Cine SKY 02
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
@@ -1758,11 +1758,11 @@ http://64.31.23.207:80/08892467/61552913/3459718.m3u8
 #EXTINF:-1 tvg-id="Globo TV Liberal Belém SD" tvg-name="Globo TV Belém HD" tvg-logo="http://www.fontedecanais.gs/logos/canais/globo.png" group-title="✅ Canais ✨ Globo Norte",Globo TV Belém HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3459794.m3u8
+http://64.31.23.207:80/08892467/61552913/3459793.m3u8
 #EXTINF:-1 tvg-id="Globo TV Liberal Belém SD" tvg-name="Globo TV Belém HD" tvg-logo="http://www.fontedecanais.gs/logos/canais/globo.png" group-title="✅ Canais ✨ Globo Norte",Globo TV Belém HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3459793.m3u8
+http://64.31.23.207:80/08892467/61552913/3459794.m3u8
 #EXTINF:-1 tvg-id="Globo Brasília SD" tvg-name="Globo TV Brasília FHD" tvg-logo="http://www.fontedecanais.gs/logos/canais/globo.png" group-title="✅ Canais ✨ Globo Centro-Oeste",Globo TV Brasília FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
