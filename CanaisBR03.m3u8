@@ -315,26 +315,14 @@ http://64.31.23.207:80/08892467/61552913/324382.m3u8
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/297939.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="Discovery H&H FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/discoveryhh.png" group-title="✅ Canais ✨ Variedades",Discovery H&H FHD
-#EXTVLCOPT:network-caching=20000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/518553.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="Discovery H&H HD" tvg-logo="http://logos.imperioapps.top/DISCOVERY_H_H.png" group-title="✅ Canais ✨ Discovery",Discovery H&H HD
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/297940.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="Discovery H&H HD" tvg-logo="http://www.fontedecanais.me/logos/canais/discoveryhh.png" group-title="✅ Canais ✨ Variedades",Discovery H&H HD
-#EXTVLCOPT:network-caching=20000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/518554.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="Discovery H&H SD" tvg-logo="http://logos.imperioapps.top/DISCOVERY_H_H.png" group-title="✅ Canais ✨ Discovery",Discovery H&H SD
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/297941.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="Discovery H&H SD" tvg-logo="http://www.fontedecanais.me/logos/canais/discoveryhh.png" group-title="✅ Canais ✨ Variedades",Discovery H&H SD
-#EXTVLCOPT:network-caching=20000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/518555.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids SD" tvg-name="Discovery ID FHD" tvg-logo="http://logos.imperioapps.top/DISCOVERY_ID.png" group-title="✅ Canais ✨ Discovery",Discovery ID FHD
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
@@ -391,26 +379,14 @@ http://64.31.23.207:80/08892467/61552913/324383.m3u8
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/297942.m3u8
-#EXTINF:-1 tvg-id="Discovery Turbo SD" tvg-name="Discovery Turbo FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/discoveryturbo.png" group-title="✅ Canais ✨ Variedades",Discovery Turbo FHD
-#EXTVLCOPT:network-caching=20000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/518556.m3u8
 #EXTINF:-1 tvg-id="Discovery Turbo SD" tvg-name="Discovery Turbo HD" tvg-logo="http://logos.imperioapps.top/DISCOVERY_TURBO.png" group-title="✅ Canais ✨ Discovery",Discovery Turbo HD
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/297943.m3u8
-#EXTINF:-1 tvg-id="Discovery Turbo SD" tvg-name="Discovery Turbo HD" tvg-logo="http://www.fontedecanais.me/logos/canais/discoveryturbo.png" group-title="✅ Canais ✨ Variedades",Discovery Turbo HD
-#EXTVLCOPT:network-caching=20000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/518557.m3u8
 #EXTINF:-1 tvg-id="Discovery Turbo SD" tvg-name="Discovery Turbo SD" tvg-logo="http://logos.imperioapps.top/DISCOVERY_TURBO.png" group-title="✅ Canais ✨ Discovery",Discovery Turbo SD
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/297944.m3u8
-#EXTINF:-1 tvg-id="Discovery Turbo SD" tvg-name="Discovery Turbo SD" tvg-logo="http://www.fontedecanais.me/logos/canais/discoveryturbo.png" group-title="✅ Canais ✨ Variedades",Discovery Turbo SD
-#EXTVLCOPT:network-caching=20000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/518558.m3u8
 #EXTINF:-1 tvg-id="Discovery World SD" tvg-name="Discovery World FHD" tvg-logo="http://logos.imperioapps.top/DISCOVERY_WORLD.png" group-title="✅ Canais ✨ Discovery",Discovery World FHD
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
@@ -731,10 +707,6 @@ http://64.31.23.207:80/08892467/61552913/3459597.m3u8
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3459617.m3u8
-#EXTINF:-1 tvg-id="Globo EPTV Sul de Minas SD" tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="http://www.fontedecanais.gs/logos/canais/globo.png" group-title="✅ Canais ✨ Globo Sudeste",Globo EPTV Sul de Minas HD
-#EXTVLCOPT:network-caching=20000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3459618.m3u8
 #EXTINF:-1 tvg-id="Globo EPTV São Carlos SD" tvg-name="Globo EPTV São Carlos" tvg-logo="http://www.fontedecanais.gs/logos/canais/globo.png" group-title="✅ Canais ✨ Globo Sudeste",Globo EPTV São Carlos
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
@@ -1027,26 +999,14 @@ http://64.31.23.207:80/08892467/61552913/3459756.m3u8
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3459636.m3u8
-#EXTINF:-1 tvg-id="Globo Rpc Curitiba SD" tvg-name="Globo RPC Curitiba FHD" tvg-logo="http://www.fontedecanais.gs/logos/canais/globo.png" group-title="✅ Canais ✨ Globo Sul",Globo RPC Curitiba FHD
-#EXTVLCOPT:network-caching=20000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3459757.m3u8
 #EXTINF:-1 tvg-id="Globo Rpc Curitiba SD" tvg-name="Globo RPC Curitiba HD" tvg-logo="http://www.fontedecanais.gs/logos/canais/globo.png" group-title="✅ Canais ✨ Globo Sudeste",Globo RPC Curitiba HD
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3459637.m3u8
-#EXTINF:-1 tvg-id="Globo Rpc Curitiba SD" tvg-name="Globo RPC Curitiba HD" tvg-logo="http://www.fontedecanais.gs/logos/canais/globo.png" group-title="✅ Canais ✨ Globo Sul",Globo RPC Curitiba HD
-#EXTVLCOPT:network-caching=20000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3459758.m3u8
 #EXTINF:-1 tvg-id="Globo RPC Curitiba SD" tvg-name="Globo RPC Curitiba SD" tvg-logo="http://www.fontedecanais.gs/logos/canais/globo.png" group-title="✅ Canais ✨ Globo Sudeste",Globo RPC Curitiba SD
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3459638.m3u8
-#EXTINF:-1 tvg-id="Globo RPC Curitiba SD" tvg-name="Globo RPC Curitiba SD" tvg-logo="http://www.fontedecanais.gs/logos/canais/globo.png" group-title="✅ Canais ✨ Globo Sul",Globo RPC Curitiba SD
-#EXTVLCOPT:network-caching=20000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3459759.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do Iguaçu FHD" tvg-logo="http://www.fontedecanais.gs/logos/canais/globo.png" group-title="✅ Canais ✨ Globo Sul",Globo RPC Foz do Iguaçu FHD
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
@@ -1183,10 +1143,6 @@ http://64.31.23.207:80/08892467/61552913/3459718.m3u8
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3459793.m3u8
-#EXTINF:-1 tvg-id="Globo TV Liberal Belém SD" tvg-name="Globo TV Belém HD" tvg-logo="http://www.fontedecanais.gs/logos/canais/globo.png" group-title="✅ Canais ✨ Globo Norte",Globo TV Belém HD
-#EXTVLCOPT:network-caching=20000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3459794.m3u8
 #EXTINF:-1 tvg-id="Globo Brasília SD" tvg-name="Globo TV Brasília FHD" tvg-logo="http://www.fontedecanais.gs/logos/canais/globo.png" group-title="✅ Canais ✨ Globo Centro-Oeste",Globo TV Brasília FHD
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
@@ -1959,18 +1915,10 @@ http://64.31.23.207:80/08892467/61552913/3459779.m3u8
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3459613.m3u8
-#EXTINF:-1 tvg-id="Globo TV Rede Amazonica Porto Velho SD" tvg-name="REDE AMAZÔNICA PORTO VELHO FHD" tvg-logo="http://www.fontedecanais.gs/logos/canais/globo.png" group-title="✅ Canais ✨ Globo Norte",REDE AMAZÔNICA PORTO VELHO FHD
-#EXTVLCOPT:network-caching=20000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3459780.m3u8
 #EXTINF:-1 tvg-id="Globo TV Rede Amazonica Porto Velho SD" tvg-name="REDE AMAZÔNICA PORTO VELHO HD" tvg-logo="http://www.fontedecanais.gs/logos/canais/globo.png" group-title="✅ Canais ✨ Globo Sudeste",REDE AMAZÔNICA PORTO VELHO HD
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/3459614.m3u8
-#EXTINF:-1 tvg-id="Globo TV Rede Amazonica Porto Velho SD" tvg-name="REDE AMAZÔNICA PORTO VELHO HD" tvg-logo="http://www.fontedecanais.gs/logos/canais/globo.png" group-title="✅ Canais ✨ Globo Norte",REDE AMAZÔNICA PORTO VELHO HD
-#EXTVLCOPT:network-caching=20000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3459781.m3u8
 #EXTINF:-1 tvg-id="324" tvg-name="Realidade Universal FHD" tvg-logo="http://www.fontedecanais.me/logos/canais/universalreality.png" group-title="✅ Canais ✨ Variedades",Realidade Universal FHD
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
@@ -2187,10 +2135,6 @@ http://64.31.23.207:80/08892467/61552913/324288.m3u8
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/324290.m3u8
-#EXTINF:-1 tvg-id="SBT SD" tvg-name="SBT FHD" tvg-logo="http://www.fontedecanais.gs/logos/canais/sbt.png" group-title="✅ Canais ✨ Abertos",SBT FHD
-#EXTVLCOPT:network-caching=20000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3459578.m3u8
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT GO HD" tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="✅ Canais ✨ Sbt",SBT GO HD
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
@@ -2199,10 +2143,6 @@ http://64.31.23.207:80/08892467/61552913/324291.m3u8
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
 http://64.31.23.207:80/08892467/61552913/324292.m3u8
-#EXTINF:-1 tvg-id="SBT SD" tvg-name="SBT HD" tvg-logo="http://www.fontedecanais.gs/logos/canais/sbt.png" group-title="✅ Canais ✨ Abertos",SBT HD
-#EXTVLCOPT:network-caching=20000
-#EXTVLCOPT:http-reconnect=true
-http://64.31.23.207:80/08892467/61552913/3459579.m3u8
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Londrina HD" tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="✅ Canais ✨ Sbt",SBT Londrina HD
 #EXTVLCOPT:network-caching=20000
 #EXTVLCOPT:http-reconnect=true
